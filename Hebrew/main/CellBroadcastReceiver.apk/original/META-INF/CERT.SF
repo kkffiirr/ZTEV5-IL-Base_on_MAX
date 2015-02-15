@@ -1,0 +1,73 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: YtJ8XsYoPcb5EhcLjEDzqbgqn4g=
+
+Name: res/drawable-xhdpi/ic_notify_alert.png
+SHA1-Digest-Manifest: qZRJU6w1hRx5NqloU+YSyylnBLY=
+
+Name: res/xml/preferences.xml
+SHA1-Digest-Manifest: eK3u6F6bjqh3vPpx8pcFKJ62KRA=
+
+Name: res/drawable-xhdpi/alert_fullscreen_bg.9.png
+SHA1-Digest-Manifest: 5TQ/aQTXgAMF0wxFaRUJv6gkU0M=
+
+Name: res/drawable-hdpi/stat_color_warning.png
+SHA1-Digest-Manifest: U21oldS2Ap8hSejRyp0qtQCcyV0=
+
+Name: res/layout/cell_broadcast_alert.xml
+SHA1-Digest-Manifest: PhTpPLG4HtqfpyQXwKoT8GYWFyg=
+
+Name: res/raw/attention_signal.ogg
+SHA1-Digest-Manifest: ZgjkD7KuRBIfvbBgqy3H2C7ZfcU=
+
+Name: res/layout/cell_broadcast_list_item.xml
+SHA1-Digest-Manifest: +fMTJPdPi++sMAHq3UNFTZ0MOss=
+
+Name: res/drawable/list_item_background_unread.xml
+SHA1-Digest-Manifest: CKY/xoWCa+7z0Ur8flAjQgPGzt4=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: hq+KWLp74VFpXJAPrzdVw7s7EnI=
+
+Name: classes.dex
+SHA1-Digest-Manifest: fFZnEeR2qALSy2wTEHCbAE+Ayv0=
+
+Name: res/layout/cell_broadcast_alert_fullscreen.xml
+SHA1-Digest-Manifest: Owyc7zHIi7I4PIL8+w6V1oHpXa8=
+
+Name: res/mipmap-hdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest-Manifest: j5eRjYr2s03G3D9OE8Ro3ZI/e88=
+
+Name: res/drawable-hdpi/ic_notify_alert.png
+SHA1-Digest-Manifest: ENE24EevsAvTeZK4hwCU2EHodUc=
+
+Name: res/drawable-hdpi/ic_warning_large.png
+SHA1-Digest-Manifest: LfEw+zGOcg9oAx5avJwVPpiEFWI=
+
+Name: res/layout/delete_broadcast_dialog_view.xml
+SHA1-Digest-Manifest: XrM4Yr7f6a+PveuLGf4AwAGTDcA=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: 2xih6g4JVwI2jxQzLutcEz76lbc=
+
+Name: res/layout-sw600dp/cell_broadcast_alert_fullscreen.xml
+SHA1-Digest-Manifest: uqvlJqnpOZ4MN3N3KFr/WH237dU=
+
+Name: res/drawable-hdpi/alert_fullscreen_bg.9.png
+SHA1-Digest-Manifest: 4ZkLevKtzUqk5ZYMSOyj38GD2U0=
+
+Name: res/layout/cell_broadcast_list_screen.xml
+SHA1-Digest-Manifest: EMwcY2Kvd8v2GnmTwCfByA/L8Q8=
+
+Name: res/mipmap-xxhdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest-Manifest: KVJD1McM6dGNX/piJoy0idAEGws=
+
+Name: res/drawable/list_item_background_read.xml
+SHA1-Digest-Manifest: Pu6LOFDMJfc1lwGl6dmHNFIvpW4=
+
+Name: res/mipmap-xhdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest-Manifest: Cj5j/pcecwpieR4Np0QFW4WwZnQ=
+
+Name: res/mipmap-mdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest-Manifest: dBrkxrw92wlCVUXZQjmTdv3mzSU=
+

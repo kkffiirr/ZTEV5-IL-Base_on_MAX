@@ -1,0 +1,16 @@
+version: 2.2.0-BZ
+apkFileName: Camera.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 2
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '19'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '40001'
+  versionName: V2.1.181
+compressionType: false

@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: res/drawable-xhdpi/ic_notify_alert.png
+SHA1-Digest: 66xRdE0gCbHjBsm5Z5Kueg2iq08=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: 8gJbHr5z3KjdCiFnQS+36P4AUMA=
+
+Name: res/drawable-xhdpi/alert_fullscreen_bg.9.png
+SHA1-Digest: nFbPNkMe+vQdXhbYujQoPLd3IDM=
+
+Name: res/drawable-hdpi/stat_color_warning.png
+SHA1-Digest: 96FEfiAnHV08CBTup67+2UOdzaU=
+
+Name: res/layout/cell_broadcast_alert.xml
+SHA1-Digest: 5RLVcvPsN/0kiZHmLaOOqFOvIa8=
+
+Name: res/raw/attention_signal.ogg
+SHA1-Digest: fSxSmVzT3CougV/gOyljk1iakr0=
+
+Name: res/layout/cell_broadcast_list_item.xml
+SHA1-Digest: 6G7ipGr65AuMH8Dk4oPXLwB3XOM=
+
+Name: res/drawable/list_item_background_unread.xml
+SHA1-Digest: atBDfapV6uEFxGaZp6YVFB8ghHQ=
+
+Name: resources.arsc
+SHA1-Digest: u+eeUahXfjxX8siSQ6LaDQUVHRI=
+
+Name: classes.dex
+SHA1-Digest: ylGH0+/x06AE2yACPoFB7NoCkMA=
+
+Name: res/layout/cell_broadcast_alert_fullscreen.xml
+SHA1-Digest: Cre/kzSIgZNSME/w9Jb6iS6Q66Q=
+
+Name: res/mipmap-hdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: mOS80xIlaHb3yHrW7vzp7RtwaGc=
+
+Name: res/drawable-hdpi/ic_notify_alert.png
+SHA1-Digest: rdHfOurdj7ITjHtcFkGpifWZwnE=
+
+Name: res/layout/delete_broadcast_dialog_view.xml
+SHA1-Digest: 4cfoIPwY1zZAJxYOam60lHLZkkE=
+
+Name: res/drawable-hdpi/ic_warning_large.png
+SHA1-Digest: NVokp0qLSm6peNwmXDnejlre6To=
+
+Name: AndroidManifest.xml
+SHA1-Digest: eDkct3tRGjxX0fXjlHtsjnOPLrk=
+
+Name: res/layout-sw600dp/cell_broadcast_alert_fullscreen.xml
+SHA1-Digest: x2oyu7/xq1Hca9PZuTFuBhUxmGk=
+
+Name: res/mipmap-xxhdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: rB5X/D2O8KlCLuEEXKZcKog5O8c=
+
+Name: res/layout/cell_broadcast_list_screen.xml
+SHA1-Digest: xtKYuVA9wZqC/KsdIZreo7kSOiE=
+
+Name: res/drawable-hdpi/alert_fullscreen_bg.9.png
+SHA1-Digest: j/CZL/FJgfVhrBxR2aOwJ9octLU=
+
+Name: res/mipmap-xhdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: fU4GHmErmpnn7z8kYP0mx7D8VzE=
+
+Name: res/drawable/list_item_background_read.xml
+SHA1-Digest: 5tk4mo+JWDOfaZOS0lKWwBNWf3w=
+
+Name: res/mipmap-mdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: Ub6Ul24uhhB0BOFg/EgsRzErrnQ=
+
