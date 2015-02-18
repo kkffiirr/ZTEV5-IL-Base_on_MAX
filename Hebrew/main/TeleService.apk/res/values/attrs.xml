@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="enableButtonText" format="string" />
+    <attr name="disableButtonText" format="string" />
+    <attr name="changeNumButtonText" format="string" />
+    <attr name="confirmMode">
+        <enum name="confirm" value="0" />
+        <enum name="activation" value="1" />
+    </attr>
+    <attr name="serviceClass">
+        <enum name="voice" value="1" />
+        <enum name="data" value="2" />
+    </attr>
+    <attr name="reason">
+        <enum name="unconditional" value="0" />
+        <enum name="busy" value="1" />
+        <enum name="no_reply" value="2" />
+        <enum name="not_reachable" value="3" />
+    </attr>
+    <attr name="phoneBackground" format="reference|color" />
+    <attr name="lineBackground" format="reference|color" />
+    <attr name="textAppearanceMedium" format="reference|color" />
+    <attr name="resetLayoutBackground" format="reference|color" />
+    <attr name="resetButtonBackground" format="reference|color" />
+    <attr name="dialpadNum0" format="reference" />
+    <attr name="dialpadNum1" format="reference" />
+    <attr name="dialpadNum2" format="reference" />
+    <attr name="dialpadNum3" format="reference" />
+    <attr name="dialpadNum4" format="reference" />
+    <attr name="dialpadNum5" format="reference" />
+    <attr name="dialpadNum6" format="reference" />
+    <attr name="dialpadNum7" format="reference" />
+    <attr name="dialpadNum8" format="reference" />
+    <attr name="dialpadNum9" format="reference" />
+    <attr name="dialpadNumPound" format="reference" />
+    <attr name="dialpadNumStar" format="reference" />
+    <attr name="digitsBackground" format="reference|color" />
+    <attr name="deleteButtonImage" format="reference" />
+    <attr name="digitsColor" format="reference|color" />
+    <attr name="dialButtonImage" format="reference" />
+    <attr name="dialpadBackground" format="reference|color" />
+</resources>
