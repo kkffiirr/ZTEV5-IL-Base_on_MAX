@@ -182,4 +182,27 @@
     <string name="quick_settings_brightness_dialog_auto_brightness_label">אוטומטי</string>
     <string name="ssl_ca_cert_warning">"ייתכן שהרשת
 מנוטרת"</string>
+    <string name="low_battery_toast">הסוללה חלשה, המכשיר יכובה</string>
+    <string name="mobile">נתונים</string>
+    <string name="syn">סינכרון</string>
+    <string name="auto">בהירות</string>
+    <string name="data">נתונים</string>
+    <string name="sync">סינכרון</string>
+    <string name="rotation">סיבוב</string>
+    <string name="motion">תנועה</string>
+    <string name="ringer">צלצול</string>
+    <string name="vibrate">רטט</string>
+    <string name="mute">מצב שקט</string>
+    <string name="airplane">מצב טיסה</string>
+    <string name="saving">מצב חיסכון</string>
+    <string name="pocket">מכשיר בכיס</string>
+    <string name="meeting">פגישה</string>
+    <string name="sleeping">מצב שינה</string>
+    <string name="visitor">מבקר</string>
+    <string name="brightness">בהירות</string>
+    <string name="wificast">WifiCast</string>
+    <string name="capture">לכידת מסך</string>
+    <string name="clear">נקה</string>
+    <string name="sort">סדר</string>
+	<string name="settings">הגדרות</string>
 </resources>
