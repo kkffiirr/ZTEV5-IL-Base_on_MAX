@@ -550,4 +550,21 @@
     <string name="preference_category_ringtone">רינגטון ורטט</string>
     <string name="manageConferenceLabel">נהל שיחת ועידה</string>
     <string name="emergency_call_dialog_number_for_display">מספר חירום</string>
+	<string name="nubia_respond_via_sms_canned_response_1">אני לא יכול לדבר עכשיו. עדיף שתשלח מסרון.</string>
+	<string name="nubia_respond_via_sms_canned_response_2">אני מיד חוזר אליך.</string>
+	<string name="nubia_respond_via_sms_canned_response_3">אני אתקשר אליך יותר מאוחר.</string>
+	<string name="nubia_respond_via_sms_canned_response_4">אני לא יכול לדבר עכשיו. תתקשר אלי מאוחר יותר?</string>
+	<string name="nubia_respond_via_sms_canned_response_5">אני בנהיגה, לא יכול לענות.</string>
+	<string name="onscreenSpeaker">רמקול</string>
+    <string name="onscreenDialpadText">לוח מקשים</string>
+    <string name="onscreenMoreText">עוד</string>
+    <string name="onscreenSeparateCallText">הפרד שיחות</string>
+    <string name="onscreenSwapText">החלף שיחות</string>
+    <string name="onscreenManageConferenceCallsText">נהל שיחת ועידה</string>
+    <string name="labelCallerIdHide">מספר חסום</string>
+    <string name="onscreenRecordText">הקלט שיחה</string>
+    <string name="SoundRecordInCall">השיחה מוקלטת</string>	
+	<string name="dial_speaker">רמקול</string>
+	<string name="nubia_call_record_state_recording">מקליט...</string>
+	
 </resources>

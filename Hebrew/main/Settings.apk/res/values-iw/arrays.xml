@@ -200,11 +200,12 @@
         <item>תן למערכת להחליט</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>מיקום</item>
+		<item>מיקום</item>
         <item>אישי</item>
-        <item>העברת הודעות</item>
+        <item>הודעות</item>
         <item>מדיה</item>
         <item>מכשיר</item>
+		<item>Bootup</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>מיקום משוער</item>
@@ -250,6 +251,13 @@
         <item>שמור במצב פעיל</item>
         <item>עקוב אחר מיקום</item>
         <item>מעקב אחר מיקום עם צריכת סוללה גבוהה</item>
+        <item>שינוי רשת אלחוטית</item>
+        <item>שינוי התקן bluetooth</item>
+        <item>שינוי נתונים</item>
+        <item>שליחת MMS</item>
+        <item>קריאת MMS</item>
+        <item>כתיבת MMS</item>
+        <item>הפעלה אוטומטית</item>		
     </string-array>
     <string-array name="app_ops_labels">
         <item>מיקום</item>
@@ -295,6 +303,13 @@
         <item>שמור במצב פעיל</item>
         <item>מיקום</item>
         <item>מיקום</item>
+        <item>שינוי רשת אלחוטית</item>
+        <item>שינוי התקן bluetooth</item>
+        <item>שינוי נתונים</item>
+        <item>שליחת MMS</item>
+        <item>קריאת MMS</item>
+        <item>כתיבת MMS</item>
+        <item>הפעלה אוטומטית</item>		
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>קצר</item>

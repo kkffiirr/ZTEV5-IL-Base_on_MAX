@@ -125,11 +125,11 @@
     <string name="bluetooth_show_received_files">הצג קבצים שהתקבלו</string>
     <string name="device_picker">‏בוחר מכשיר Bluetooth</string>
     <string name="bluetooth_permission_request">‏בקשה להרשאת Bluetooth</string>
-    <string name="bluetooth_ask_enablement">‏אפליקציה מסוימת רוצה להפעיל את ה-Bluetooth.</string>
-    <string name="bluetooth_ask_discovery">‏אפליקציה מסוימת רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים למשך %1$d שניות.</string>
-    <string name="bluetooth_ask_lasting_discovery">‏אפליקציה מסוימת רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth</string>
-    <string name="bluetooth_ask_enablement_and_discovery">‏אפליקציה מסוימת רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים למשך %1$d שניות.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">‏אפליקציה מסוימת רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth.</string>
+    <string name="bluetooth_ask_enablement">‏יישום מסוימת רוצה להפעיל את ה-Bluetooth.</string>
+    <string name="bluetooth_ask_discovery">‏יישום מסוימת רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים למשך %1$d שניות.</string>
+    <string name="bluetooth_ask_lasting_discovery">‏יישום מסוימת רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth</string>
+    <string name="bluetooth_ask_enablement_and_discovery">‏יישום מסוימת רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים למשך %1$d שניות.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">‏יישום מסוימת רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth.</string>
     <string name="bluetooth_turning_on">‏מפעיל Bluetooth...</string>
     <string name="bluetooth_turning_off">‏Bluetooth נכבה…</string>
     <string name="bluetooth_auto_connect">חיבור אוטומטי</string>
@@ -148,9 +148,9 @@
     <string name="display_preview_label">תצוגה מקדימה:</string>
     <string name="display_font_size_label">גודל גופן:</string>
     <string name="intent_sender_sendbroadcast_text">שלח broadcast</string>
-    <string name="intent_sender_action_label">Action:</string>
-    <string name="intent_sender_startactivity_text">הפעל את activity</string>
-    <string name="intent_sender_resource_label">Resource:</string>
+    <string name="intent_sender_action_label">פעולה:</string>
+    <string name="intent_sender_startactivity_text">הפעל את הפעילות</string>
+    <string name="intent_sender_resource_label">משאב:</string>
     <string name="intent_sender_account_label">חשבון:</string>
     <string name="proxy_settings_title">‏שרת Proxy</string>
     <string name="proxy_clear_text">נקה</string>
@@ -168,7 +168,7 @@
     <string name="proxy_error_empty_port">עליך למלא את שדה היציאה.</string>
     <string name="proxy_error_empty_host_set_port">שדה היציאה חייב להיות ריק אם שדה המארח ריק.</string>
     <string name="proxy_error_invalid_port">היציאה שהקלדת אינה חוקית.</string>
-    <string name="proxy_warning_limited_support">‏שרת ה-Proxy של HTTP נמצא בשימוש הדפדפן, אך אפליקציות אחרות לא יכולים להשתמש בו.</string>
+    <string name="proxy_warning_limited_support">‏שרת ה-Proxy של HTTP נמצא בשימוש הדפדפן, אך יישומים אחרות לא יכולים להשתמש בו.</string>
     <string name="proxy_url">"‏כתובת אתר של PAC: "</string>
     <string name="radio_info_signal_location_label">מיקום:</string>
     <string name="radio_info_neighboring_location_label">‏CID שכן:</string>
@@ -290,7 +290,7 @@
     <string name="crypt_keeper_encrypt_title">הצפן טלפון</string>
     <string name="crypt_keeper_encrypt_summary">‏דורש PIN מספרי או סיסמה לפענוח הטלפון בכל הפעלה</string>
     <string name="crypt_keeper_encrypted_summary">מוצפן</string>
-    <string name="crypt_keeper_desc">"‏אתה יכול להצפין חשבונות, הגדרות, אפליקציות שהורדת ונתונים שלהם, מדיה וקבצים אחרים. לאחר שתצפין את הטלפון שלך, בכל פעם שתפעיל אותו תצטרך להקליד קוד PIN מספרי או סיסמה כדי לפענח את הנתונים. לא תוכל לבטל את הצפנת הטלפון שלך, אלא אם תבצע איפוס לנתוני יצרן. פעולה זו תמחק את כל הנתונים.
+    <string name="crypt_keeper_desc">"‏אתה יכול להצפין חשבונות, הגדרות, יישומים שהורדת ונתונים שלהם, מדיה וקבצים אחרים. לאחר שתצפין את הטלפון שלך, בכל פעם שתפעיל אותו תצטרך להקליד קוד PIN מספרי או סיסמה כדי לפענח את הנתונים. לא תוכל לבטל את הצפנת הטלפון שלך, אלא אם תבצע איפוס לנתוני יצרן. פעולה זו תמחק את כל הנתונים.
 
 ההצפנה אורכת שעה לפחות. עליך לבצע הפעלה עם סוללה טעונה ולהשאיר את הטלפון מחובר עד לסיום ההצפנה. אם תפסיק את תהליך ההצפנה, תאבד את כל הנתונים או חלק מהם."</string>
     <string name="crypt_keeper_button_text">הצפן טלפון</string>
@@ -364,10 +364,10 @@
     <string name="manage_device_admin">מנהלי התקנים</string>
     <string name="manage_device_admin_summary">הצג או השבת מנהלי התקנים</string>
     <string name="manage_notification_access">גישה אל התראות</string>
-    <string name="manage_notification_access_summary_zero">אפליקציות לא יכולות לקרוא התראות</string>
+    <string name="manage_notification_access_summary_zero">יישומים לא יכולות לקרוא התראות</string>
     <string name="no_notification_listeners">לא מותקנים מאזינים להתראות.</string>
     <string name="notification_listener_security_warning_title">האם להפעיל את %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s יוכל לקרוא את כל ההתראות שפורסמו על ידי המערכת או על ידי אפליקציה מותקנת כלשהי, והדבר עשוי לכלול מידע אישי כמו שמות אנשי קשר ואת הטקסט בהודעות שנשלחו אליך. הוא יוכל גם לסגור את ההתראות האלה או להשתמש בלחצני פעולה בתוכן.</string>
+    <string name="notification_listener_security_warning_summary">%1$s יוכל לקרוא את כל ההתראות שפורסמו על ידי המערכת או על ידי יישום מותקנת כלשהי, והדבר עשוי לכלול מידע אישי כמו שמות אנשי קשר ואת הטקסט בהודעות שנשלחו אליך. הוא יוכל גם לסגור את ההתראות האלה או להשתמש בלחצני פעולה בתוכן.</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">‏הפעל את Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -444,7 +444,7 @@
     <string name="bluetooth_dock_settings_headset">כטלפון דיבורית</string>
     <string name="bluetooth_dock_settings_a2dp">עבור מוסיקה ומדיה</string>
     <string name="bluetooth_dock_settings_remember">זכור הגדרות</string>
-    <string name="wifi_display_settings_title">‏מסך Cast</string>
+    <string name="wifi_display_settings_title">‏שידור מסך</string>
     <string name="wifi_display_enable_menu_item">‏הפעל תצוגת WiFi</string>
     <string name="wifi_display_no_devices_found">לא נמצאו מכשירים בקרבת מקום.</string>
     <string name="wifi_display_status_connecting">מתחבר</string>
@@ -459,15 +459,15 @@
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">אפשר החלפת נתונים כאשר הטלפון נוגע במכשיר אחר</string>
     <string name="android_beam_settings_title">Android Beam</string>
-    <string name="android_beam_on_summary">‏מוכן לשדר תוכן אפליקציה באמצעות NFC</string>
+    <string name="android_beam_on_summary">‏מוכן לשדר תוכן יישום באמצעות NFC</string>
     <string name="android_beam_off_summary">כבוי</string>
     <string name="android_beam_disabled_summary">‏לא זמין משום שה-NFC כבוי</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">"‏כאשר תכונה זו מופעלת, תוכל לשדר תוכן אפליקציות למכשיר אחר התומך ב-NFC על ידי החזקת המכשירים קרובים אחד לשני. לדוגמה, תוכל לשדר דפי דפדפן, סרטוני YouTube, אנשי קשר  ועוד.
+    <string name="android_beam_explained">"‏כאשר תכונה זו מופעלת, תוכל לשדר תוכן יישומים למכשיר אחר התומך ב-NFC על ידי החזקת המכשירים קרובים אחד לשני. לדוגמה, תוכל לשדר דפי דפדפן, סרטוני YouTube, אנשי קשר  ועוד.
 
-פשוט קרב את המכשירים זה לזה (בדרך כלל גב אל גב) ולאחר מכן גע במסך שלך. האפליקציה תקבע מה ישודר."</string>
+פשוט קרב את המכשירים זה לזה (בדרך כלל גב אל גב) ולאחר מכן גע במסך שלך. היישום תקבע מה ישודר."</string>
     <string name="nsd_quick_toggle_title">גילוי שירותי רשת</string>
-    <string name="nsd_quick_toggle_summary">אפשר לאפליקציות במכשירים אחרים לגלות אפליקציות במכשיר זה</string>
+    <string name="nsd_quick_toggle_summary">אפשר ליישומים במכשירים אחרים לגלות יישומים במכשיר זה</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_quick_toggle_summary">‏הפעל את ה-Wi-Fi</string>
     <string name="wifi_settings">Wi-Fi</string>
@@ -485,10 +485,10 @@
     <string name="wifi_poor_network_detection">הימנע מחיבורים באיכות ירודה</string>
     <string name="wifi_poor_network_detection_summary">‏אל תשתמש ברשת Wi-Fi, אלא אם יש לה חיבור אינטרנט באיכות טובה</string>
     <string name="wifi_scan_always_available">סריקה זמינה תמיד</string>
-    <string name="wifi_scan_always_available_summary">‏תן לשירות המיקום של Google ולאפליקציות אחרות לסרוק על מנת למצוא רשתות, גם כש-Wi-Fi כבוי.</string>
+    <string name="wifi_scan_always_available_summary">‏תן לשירות המיקום של Google וליישומים אחרות לסרוק על מנת למצוא רשתות, גם כש-Wi-Fi כבוי.</string>
     <string name="wifi_install_credentials">התקן אישורים</string>
-    <string name="wifi_scan_notify_text_location_on">"‏כדי לשפר את מידת הדיוק מבחינת מיקום ולהשגת יתרונות נוספים, אפליקציות של Google ואפליקציות נוספות עשויות לבצע סריקה לאיתור רשתות קרובות, גם כאשר ה-Wi-Fi כבוי. אם אינך מעוניין בכך, עבור אל 'מתקדם' > 'סריקה זמינה תמיד'."</string>
-    <string name="wifi_scan_notify_text_location_off">"‏אפליקציות עשויים לבצע סריקה לאיתור רשתות קרובות, גם אם ה-Wi-Fi כבוי. אם אינך מעוניין בכך, עבור אל 'מתקדם' > 'סריקה זמינה תמיד'."</string>
+    <string name="wifi_scan_notify_text_location_on">"‏כדי לשפר את מידת הדיוק מבחינת מיקום ולהשגת יתרונות נוספים, יישומים של Google ויישומים נוספות עשויות לבצע סריקה לאיתור רשתות קרובות, גם כאשר ה-Wi-Fi כבוי. אם אינך מעוניין בכך, עבור אל 'מתקדם' > 'סריקה זמינה תמיד'."</string>
+    <string name="wifi_scan_notify_text_location_off">"‏יישומים עשויים לבצע סריקה לאיתור רשתות קרובות, גם אם ה-Wi-Fi כבוי. אם אינך מעוניין בכך, עבור אל 'מתקדם' > 'סריקה זמינה תמיד'."</string>
     <string name="wifi_scan_notify_remember_choice">אל תציג שוב</string>
     <string name="wifi_setting_sleep_policy_title">‏השאר את ה-Wi-Fi פועל בזמן שינה</string>
     <string name="wifi_setting_sleep_policy_error">אירעה בעיה בשינוי ההגדרה</string>
@@ -555,7 +555,7 @@
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_scan_always_turnon_message">"‏לשיפור דיוק המיקום ולמטרות אחרות, %1$s רוצה להפעיל את סריקת הרשתות, גם כאשר ה-Wi-Fi כבוי.
 
-האם להתיר זאת עבור כל האפליקציות שרוצות לסרוק?"</string>
+האם להתיר זאת עבור כל היישומים שרוצות לסרוק?"</string>
     <string name="wifi_scan_always_confirm_allow">אפשר</string>
     <string name="wifi_scan_always_confirm_deny">דחה</string>
     <string name="wifi_connect">התחבר</string>
@@ -751,7 +751,7 @@
     <string name="memory_available_read_only">זמין (לקריאה בלבד)</string>
     <string name="memory_size">שטח כולל</string>
     <string name="memory_calculating_size">מחשב…</string>
-    <string name="memory_apps_usage">אפליקציות (נתונים ותוכן מדיה)</string>
+    <string name="memory_apps_usage">יישומים (נתונים ותוכן מדיה)</string>
     <string name="memory_media_usage">מדיה</string>
     <string name="memory_downloads_usage">הורדות</string>
     <string name="memory_dcim_usage">תמונות, סרטוני וידאו</string>
@@ -766,17 +766,17 @@
     <string name="sd_format">‏מחק כרטיס SD</string>
     <string name="sd_format_summary">‏מוחק את כל הנתונים שבכרטיס SD, כגון מוסיקה ותמונות.</string>
     <string name="memory_clear_cache_title">האם לנקות נתונים בקובץ שמור?</string>
-    <string name="memory_clear_cache_message">פעולה זו תנקה נתונים בקובץ שמור, לכל האפליקציות.</string>
+    <string name="memory_clear_cache_message">פעולה זו תנקה נתונים בקובץ שמור, לכל היישומים.</string>
     <string name="mtp_ptp_mode_summary">‏פונקציית MTP או PTP פעילה</string>
     <string name="dlg_confirm_unmount_title">‏לבטל את הטעינה של כרטיס ה-SD?</string>
-    <string name="dlg_confirm_unmount_text">‏אם תבטל את טעינת כרטיס ה-SD, הפעולה של אפליקציות מסוימות שאתה משתמש בהן תופסק וייתכן שהן לא יהיו זמינות עד שתטען מחדש את כרטיס ה-SD.</string>
+    <string name="dlg_confirm_unmount_text">‏אם תבטל את טעינת כרטיס ה-SD, הפעולה של יישומים מסוימות שאתה משתמש בהן תופסק וייתכן שהן לא יהיו זמינות עד שתטען מחדש את כרטיס ה-SD.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">‏לא ניתן לבטל את טעינת כרטיס ה-SD. נסה שוב מאוחר יותר.</string>
     <string name="unmount_inform_text">‏הטעינה של כרטיס SD תבוטל.</string>
     <string name="sd_ejecting_title">מבטל טעינה</string>
     <string name="sd_ejecting_summary">ביטול טעינה מתבצע</string>
     <string name="storage_low_title">שטח האחסון הולך ואוזל</string>
-    <string name="storage_low_summary">ייתכן שפונקציות מסוימות של המערכת, כמו סנכרון, לא יפעלו כראוי. נסה לפנות מקום על ידי מחיקה או ביטול הצמדה של פריטים, כגון אפליקציות או תוכן מדיה.</string>
+    <string name="storage_low_summary">ייתכן שפונקציות מסוימות של המערכת, כמו סנכרון, לא יפעלו כראוי. נסה לפנות מקום על ידי מחיקה או ביטול הצמדה של פריטים, כגון יישומים או תוכן מדיה.</string>
     <string name="storage_menu_usb">‏חיבור USB למחשב</string>
     <string name="storage_title_usb">‏חיבור USB למחשב</string>
     <string name="usb_connection_category">חבר בתור</string>
@@ -834,8 +834,8 @@
     <string name="master_clear_desc">‏פעולה זו תמחק את כל הנתונים מ<b>האחסון הפנימי</b>" של הטלפון שלך, כולל:
 
 "<li>חשבון Google שלך</li>"
-"<li>הנתונים וההגדרות של המערכת והאפליקציות שלך</li>"
-"<li>האפליקציות שהורדת</li></string>
+"<li>הנתונים וההגדרות של המערכת והיישומים שלך</li>"
+"<li>היישומים שהורדת</li></string>
     <string name="master_clear_accounts">"
 
 אתה מחובר כעת לחשבונות הבאים:
@@ -849,7 +849,7 @@
     <string name="erase_external_storage">‏מחק כרטיס SD</string>
     <string name="erase_external_storage_description">‏מחק את כל הנתונים שבכרטיס ה-SD, כגון מוסיקה או תמונות</string>
     <string name="master_clear_button_text">איפוס טלפון</string>
-    <string name="master_clear_final_desc">למחוק את כל המידע האישי שלך והאפליקציות שהורדת? לא ניתן לבטל את הפעולה!</string>
+    <string name="master_clear_final_desc">למחוק את כל המידע האישי שלך והיישומים שהורדת? לא ניתן לבטל את הפעולה!</string>
     <string name="master_clear_final_button_text">מחק הכל</string>
     <string name="master_clear_gesture_prompt">שרטט את קו ביטול הנעילה</string>
     <string name="master_clear_gesture_explanation">עליך לשרטט את קו ביטול הנעילה כדי לאפשר איפוס נתוני יצרן.</string>
@@ -903,7 +903,7 @@
     <string name="location_mode_sensors_only_title">במכשיר בלבד</string>
     <string name="location_mode_location_off_title">מיקום כבוי</string>
     <string name="location_category_recent_location_requests">בקשות של מיקומים אחרונים</string>
-    <string name="location_no_recent_apps">אין אפליקציות שביקשו מיקום לאחרונה</string>
+    <string name="location_no_recent_apps">אין יישומים שביקשו מיקום לאחרונה</string>
     <string name="location_category_location_services">שירותי מיקום</string>
     <string name="location_high_battery_use">שימוש בסוללה מלאה</string>
     <string name="location_low_battery_use">שימוש בסוללה חלשה</string>
@@ -913,17 +913,17 @@
     <string name="location_mode_sensors_only_description">‏השתמש ב-GPS לקביעת המיקום</string>
     <string name="location_loading_injected_setting">מאחזר…</string>
     <string name="location_network_based">‏מיקום רשת Wi-Fi ורשת לנייד</string>
-    <string name="location_neighborhood_level">‏אפשר לאפליקציות להשתמש בשירות המיקום של Google כדי להעריך את מיקומך מהר יותר. נתוני מיקום אנונימיים ייאספו ויישלחו אל Google.</string>
+    <string name="location_neighborhood_level">‏אפשר ליישומים להשתמש בשירות המיקום של Google כדי להעריך את מיקומך מהר יותר. נתוני מיקום אנונימיים ייאספו ויישלחו אל Google.</string>
     <string name="location_neighborhood_level_wifi">‏המיקום נקבע באמצעות Wi-Fi</string>
     <string name="location_gps">‏לווייני GPS</string>
-    <string name="location_street_level">‏אפשר לאפליקציות להשתמש ב-GPS בטלפון שלך כדי לאתר את מיקומך</string>
+    <string name="location_street_level">‏אפשר ליישומים להשתמש ב-GPS בטלפון שלך כדי לאתר את מיקומך</string>
     <string name="assisted_gps">‏השתמש ב-Assisted GPS</string>
     <string name="assisted_gps_enabled">‏השתמש בשרת כדי לסייע ל-GPS (הסר את הסימון כדי לצמצם את השימוש ברשת)</string>
     <string name="assisted_gps_disabled">‏השתמש בשרת כדי לסייע ל-GPS (הסר את הסימון כדי לשפר את ביצועי GPS)</string>
     <string name="use_location_title">‏מיקום וחיפוש Google</string>
     <string name="use_location_summary">‏אפשר ל-Google להשתמש במיקום שלך כדי לשפר את תוצאות החיפוש ושירותים נוספים</string>
     <string name="location_access_title">גישה למיקום שלי</string>
-    <string name="location_access_summary">אפשר לאפליקציות שביקשו את אישורך להשתמש בפרטי המיקום שלך</string>
+    <string name="location_access_summary">אפשר ליישומים שביקשו את אישורך להשתמש בפרטי המיקום שלך</string>
     <string name="location_sources_heading">מקורות מיקום</string>
     <string name="about_settings">מידע על הטלפון</string>
     <string name="about_settings_summary">הצג מידע משפטי, סטטוס, גרסת תוכנה</string>
@@ -979,20 +979,20 @@
     <string name="lockpattern_settings_help_how_to_record">כיצד לשרטט קו ביטול נעילה</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">ניסיונות כושלים רבים מדי!</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">נסה שוב בעוד %d שניות.</string>
-    <string name="activity_not_found">האפליקציה אינה מותקנת בטלפון.</string>
-    <string name="manageapplications_settings_title">נהל אפליקציות</string>
-    <string name="manageapplications_settings_summary">נהל והסר אפליקציות מותקנות</string>
-    <string name="applications_settings">Apps</string>
-    <string name="applications_settings_summary">ניהול אפליקציות, הגדרת קיצורי דרך להפעלה מהירה</string>
-    <string name="applications_settings_header">הגדרות אפליקציה</string>
+    <string name="activity_not_found">היישום אינה מותקנת בטלפון.</string>
+    <string name="manageapplications_settings_title">נהל יישומים</string>
+    <string name="manageapplications_settings_summary">נהל והסר יישומים מותקנות</string>
+    <string name="applications_settings">יישומים</string>
+    <string name="applications_settings_summary">ניהול יישומים, הגדרת קיצורי דרך להפעלה מהירה</string>
+    <string name="applications_settings_header">הגדרות יישום</string>
     <string name="install_applications">מקורות לא ידועים</string>
-    <string name="install_unknown_applications">אפשר התקנת אפליקציות ממקורות לא ידועים</string>
-    <string name="install_all_warning">הטלפון והנתונים האישיים שלך חשופים יותר בפני התקפות של אפליקציות ממקורות לא ידועים. אתה מסכים לכך שאתה האחראי הבלעדי לכל נזק שנגרם לטלפון או לאובדן של נתונים שעשויים להיגרם כתוצאה משימוש באפליקציות אלה.</string>
-    <string name="verify_applications">אמת אפליקציות</string>
-    <string name="verify_applications_summary">מנע או הזהר לפני התקנת אפליקציה שעשויה לגרום נזק</string>
+    <string name="install_unknown_applications">אפשר התקנת יישומים ממקורות לא ידועים</string>
+    <string name="install_all_warning">הטלפון והנתונים האישיים שלך חשופים יותר בפני התקפות של יישומים ממקורות לא ידועים. אתה מסכים לכך שאתה האחראי הבלעדי לכל נזק שנגרם לטלפון או לאובדן של נתונים שעשויים להיגרם כתוצאה משימוש ביישומים אלה.</string>
+    <string name="verify_applications">אמת יישומים</string>
+    <string name="verify_applications_summary">מנע או הזהר לפני התקנת יישום שעשויה לגרום נזק</string>
     <string name="advanced_settings">הגדרות מתקדמות</string>
     <string name="advanced_settings_summary">אפשר עוד אפשרויות הגדרה.</string>
-    <string name="application_info_label">פרטי אפליקציה</string>
+    <string name="application_info_label">פרטי יישום</string>
     <string name="storage_label">אחסון</string>
     <string name="auto_launch_label">הפעל כברירת מחדל</string>
     <string name="auto_launch_label_generic">ברירות מחדל</string>
@@ -1004,8 +1004,8 @@
     <string name="controls_label">פקדים</string>
     <string name="force_stop">אלץ עצירה</string>
     <string name="total_size_label">סה\"כ</string>
-    <string name="application_size_label">אפליקציה</string>
-    <string name="external_code_size_label">‏אפליקציה של אחסון USB</string>
+    <string name="application_size_label">יישום</string>
+    <string name="external_code_size_label">‏יישום של אחסון USB</string>
     <string name="data_size_label">נתונים</string>
     <string name="external_data_size_label">‏כרטיס SD</string>
     <string name="uninstall_text">הסר התקנה</string>
@@ -1015,30 +1015,30 @@
     <string name="enable_text">הפעל</string>
     <string name="clear_user_data_text">נקה נתונים</string>
     <string name="app_factory_reset">הסר התקנה של עדכונים</string>
-    <string name="auto_launch_enable_text">בחרת להפעיל אפליקציה זו כברירת מחדל עבור פעולות מסוימות.</string>
-    <string name="always_allow_bind_appwidgets_text">"בחרת לאפשר לאפליקציה ליצור ווידג'טים ולגשת לנתונים שלהם."</string>
+    <string name="auto_launch_enable_text">בחרת להפעיל יישום זו כברירת מחדל עבור פעולות מסוימות.</string>
+    <string name="always_allow_bind_appwidgets_text">"בחרת לאפשר ליישום ליצור ווידג'טים ולגשת לנתונים שלהם."</string>
     <string name="auto_launch_disable_text">לא הוגדרו ברירות מחדל.</string>
     <string name="clear_activities">נקה ברירות מחדל</string>
-    <string name="screen_compatibility_text">ייתכן שאפליקציה זו אינה מיועדת למסך שלך. תוכל לשלוט באופן שבה היא מותאמת למסך שלך כאן.</string>
+    <string name="screen_compatibility_text">ייתכן שיישום זו אינה מיועדת למסך שלך. תוכל לשלוט באופן שבה היא מותאמת למסך שלך כאן.</string>
     <string name="ask_compatibility">שאל בעת הפעלה</string>
-    <string name="enable_compatibility">שנה קנה מידה של אפליקציה</string>
+    <string name="enable_compatibility">שנה קנה מידה של יישום</string>
     <string name="unknown">לא ידוע</string>
     <string name="sort_order_alpha">מיין לפי שם</string>
     <string name="sort_order_size">מיין לפי גודל</string>
     <string name="show_running_services">הצג שירותים פועלים</string>
     <string name="show_background_processes">הצג תהליכים המאוחסנים בקובץ שמור</string>
-    <string name="reset_app_preferences">אפס העדפות אפליקציה</string>
-    <string name="reset_app_preferences_title">האם לאפס העדפות אפליקציה?</string>
+    <string name="reset_app_preferences">אפס העדפות יישום</string>
+    <string name="reset_app_preferences_title">האם לאפס העדפות יישום?</string>
     <string name="reset_app_preferences_desc">"הפעולה תאפס את כל ההעדפות עבור:
 
- "<li>אפליקציות מושבתות</li>"
- "<li>הודעות של אפליקציות מושבתות</li>"
- "<li>אפליקציות בברירת מחדל לביצוע פעולות</li>"
- "<li>הגבלות של נתוני רקע עבור אפליקציות</li>"
+ "<li>יישומים מושבתות</li>"
+ "<li>הודעות של יישומים מושבתות</li>"
+ "<li>יישומים בברירת מחדל לביצוע פעולות</li>"
+ "<li>הגבלות של נתוני רקע עבור יישומים</li>"
  
 הגבלות הרשאה כלשהן
- לא תאבד נתוני אפליקציות."</string>
-    <string name="reset_app_preferences_button">אפס אפליקציות</string>
+ לא תאבד נתוני יישומים."</string>
+    <string name="reset_app_preferences_button">אפס יישומים</string>
     <string name="manage_space_text">נהל שטח אחסון</string>
     <string name="filter">סינון</string>
     <string name="filter_dlg_title">בחר אפשרויות סינון</string>
@@ -1049,65 +1049,65 @@
     <string name="filter_apps_onsdcard">‏בכרטיס SD</string>
     <string name="disabled">מושבת</string>
     <string name="not_installed">לא מותקן</string>
-    <string name="no_applications">אין אפליקציות.</string>
+    <string name="no_applications">אין יישומים.</string>
     <string name="internal_storage">אחסון פנימי</string>
     <string name="sd_card_storage">‏אחסון בכרטיס SD</string>
     <string name="recompute_size">מחשב מחדש את הגודל…</string>
-    <string name="clear_data_dlg_title">למחוק את נתוני האפליקציות?</string>
-    <string name="clear_data_dlg_text">כל נתוני האפליקציה יימחקו לצמיתות. נתונים אלה כוללים את כל הקבצים, ההגדרות, החשבונות, מסדי הנתונים וכדומה.</string>
+    <string name="clear_data_dlg_title">למחוק את נתוני היישומים?</string>
+    <string name="clear_data_dlg_text">כל נתוני היישום יימחקו לצמיתות. נתונים אלה כוללים את כל הקבצים, ההגדרות, החשבונות, מסדי הנתונים וכדומה.</string>
     <string name="dlg_ok">אישור</string>
     <string name="dlg_cancel">ביטול</string>
     <string name="app_not_found_dlg_title" />
-    <string name="app_not_found_dlg_text">האפליקציה לא נמצאת ברשימת האפליקציות המותקנות.</string>
-    <string name="clear_data_failed">לא ניתן למחוק את נתוני האפליקציה.</string>
+    <string name="app_not_found_dlg_text">היישום לא נמצאת ברשימת היישומים המותקנות.</string>
+    <string name="clear_data_failed">לא ניתן למחוק את נתוני היישום.</string>
     <string name="app_factory_reset_dlg_title">להסיר את התקנת העדכונים?</string>
     <string name="app_factory_reset_dlg_text">‏כל העדכונים לאפליקציית מערכת Android זו יוסרו.</string>
     <string name="clear_failed_dlg_title">נקה נתונים</string>
-    <string name="clear_failed_dlg_text">לא ניתן למחוק את נתוני האפליקציה.</string>
-    <string name="security_settings_desc">אפליקציה זו יכולה לגשת לפריטים הבאים בטלפון:</string>
-    <string name="security_settings_desc_multi">אפליקציה זו יכולה לגשת ליכולות הבאות בטלפון שלך. על מנת לשפר את הביצועים ולהפחית את השימוש בזיכרון, חלק מהרשאות אלה זמינות ל-%1$s מפני שהוא פועל באותו תהליך יחד עם %2$s:</string>
+    <string name="clear_failed_dlg_text">לא ניתן למחוק את נתוני היישום.</string>
+    <string name="security_settings_desc">יישום זו יכולה לגשת לפריטים הבאים בטלפון:</string>
+    <string name="security_settings_desc_multi">יישום זו יכולה לגשת ליכולות הבאות בטלפון שלך. על מנת לשפר את הביצועים ולהפחית את השימוש בזיכרון, חלק מהרשאות אלה זמינות ל-%1$s מפני שהוא פועל באותו תהליך יחד עם %2$s:</string>
     <string name="join_two_items">%1$s וגם %2$s</string>
     <string name="join_many_items_last">%1$s ו-%2$s</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_middle">%1$s, %2$s</string>
-    <string name="security_settings_billing_desc">אפליקציה זו עשויה לחייב אותך בכסף:</string>
+    <string name="security_settings_billing_desc">יישום זו עשויה לחייב אותך בכסף:</string>
     <string name="security_settings_premium_sms_desc">‏האם לשלוח SMS פרימיום?</string>
     <string name="computing_size">מחשב...</string>
     <string name="invalid_size_value">לא ניתן לחשב את גודל החבילה.</string>
-    <string name="empty_list_msg">לא מותקנים במכשיר שלך אפליקציות של צד שלישי.</string>
+    <string name="empty_list_msg">לא מותקנים במכשיר שלך יישומים של צד שלישי.</string>
     <string name="version_text">גרסה %1$s</string>
     <string name="move_app">העבר</string>
     <string name="move_app_to_internal">העבר לטלפון</string>
     <string name="move_app_to_sdcard">‏העבר לכרטיס SD</string>
     <string name="moving">מעביר</string>
     <string name="insufficient_storage">אין מספיק שטח אחסון.</string>
-    <string name="does_not_exist">האפליקציה לא קיימת.</string>
-    <string name="app_forward_locked">האפליקציה מוגנת בפני העתקה.</string>
+    <string name="does_not_exist">היישום לא קיימת.</string>
+    <string name="app_forward_locked">היישום מוגנת בפני העתקה.</string>
     <string name="invalid_location">מיקום ההתקנה אינו חוקי.</string>
     <string name="system_package">לא ניתן להתקין עדכוני מערכת במדיה חיצונית.</string>
     <string name="force_stop_dlg_title">לאלץ עצירה?</string>
-    <string name="force_stop_dlg_text">אם אתה מאלץ עצירה של אפליקציה, ייתכן שהיא לא תפעל כהלכה.</string>
+    <string name="force_stop_dlg_text">אם אתה מאלץ עצירה של יישום, ייתכן שהיא לא תפעל כהלכה.</string>
     <string name="move_app_failed_dlg_title" />
-    <string name="move_app_failed_dlg_text">לא ניתן להעביר את האפליקציה. %1$s</string>
+    <string name="move_app_failed_dlg_text">לא ניתן להעביר את היישום. %1$s</string>
     <string name="app_install_location_title">מיקום התקנה מועדף</string>
-    <string name="app_install_location_summary">שנה את מיקום ההתקנה המועדף עבור אפליקציות חדשות.</string>
-    <string name="app_disable_dlg_title">להשבית אפליקציה מובנית?</string>
-    <string name="app_disable_dlg_text">אם תשבית אפליקציה מובנית, אפליקציות אחרות עשויים שלא לפעול כהלכה.</string>
-    <string name="app_special_disable_dlg_title">האם למחוק נתונים ולהשבית את האפליקציה?</string>
-    <string name="app_special_disable_dlg_text">אם תשבית אפליקציה מובנית, ייתכן שאפליקציות אחרות יתנהגו באופן בעייתי. גם הנתונים שלך יימחקו.</string>
+    <string name="app_install_location_summary">שנה את מיקום ההתקנה המועדף עבור יישומים חדשות.</string>
+    <string name="app_disable_dlg_title">להשבית יישום מובנית?</string>
+    <string name="app_disable_dlg_text">אם תשבית יישום מובנית, יישומים אחרות עשויים שלא לפעול כהלכה.</string>
+    <string name="app_special_disable_dlg_title">האם למחוק נתונים ולהשבית את היישום?</string>
+    <string name="app_special_disable_dlg_text">אם תשבית יישום מובנית, ייתכן שיישומים אחרות יתנהגו באופן בעייתי. גם הנתונים שלך יימחקו.</string>
     <string name="app_disable_notifications_dlg_title">האם לבטל התראות?</string>
-    <string name="app_disable_notifications_dlg_text">אם תבטל התראות עבור אפליקציה זו, אתה עלול להחמיץ התראות ועדכונים חשובים.</string>
-    <string name="app_ops_settings">פעולות אפליקציה</string>
+    <string name="app_disable_notifications_dlg_text">אם תבטל התראות עבור יישום זו, אתה עלול להחמיץ התראות ועדכונים חשובים.</string>
+    <string name="app_ops_settings">פעולות יישום</string>
     <string name="app_ops_running">פועל</string>
     <string name="app_ops_never_used">(מעולם לא נעשה שימוש)</string>
     <string name="storageuse_settings_title">שימוש בשטח אחסון</string>
-    <string name="storageuse_settings_summary">הצג את שטח האחסון שנמצא בשימוש על ידי אפליקציות</string>
+    <string name="storageuse_settings_summary">הצג את שטח האחסון שנמצא בשימוש על ידי יישומים</string>
     <string name="runningservices_settings_title">שירותים פועלים</string>
     <string name="runningservices_settings_summary">הצג ושלוט בשירותים הפועלים כעת</string>
     <string name="service_restarting">מפעיל מחדש</string>
     <string name="cached">תהליך רקע בקובץ שמור</string>
     <string name="no_running_services">אף שירות אינו פועל.</string>
-    <string name="service_started_by_app">הופעל על ידי אפליקציה.</string>
+    <string name="service_started_by_app">הופעל על ידי יישום.</string>
     <string name="service_background_processes">%1$s של שטח פנוי</string>
     <string name="service_foreground_processes">%1$s בשימוש</string>
     <string name="memory">RAM</string>
@@ -1117,15 +1117,15 @@
     <string name="running_processes_item_description_s_p">תהליך %1$d ו-‏%2$d שירותים</string>
     <string name="running_processes_item_description_p_s">%1$d תהליכים ושירות %2$d</string>
     <string name="running_processes_item_description_p_p">%1$d תהליכים ו-‏%2$d שירותים</string>
-    <string name="runningservicedetails_settings_title">אפליקציות פעילות</string>
+    <string name="runningservicedetails_settings_title">יישומים פעילות</string>
     <string name="no_services">לא פעיל</string>
     <string name="runningservicedetails_services_title">שירותים</string>
     <string name="runningservicedetails_processes_title">תהליכים</string>
     <string name="service_stop">עצור</string>
     <string name="service_manage">הגדרות</string>
-    <string name="service_stop_description">שירות זה הופעל על ידי האפליקציה שלו. הפסקת הפעילות עלולה לגרום לכשל באפליקציה.</string>
-    <string name="heavy_weight_stop_description">לא ניתן להפסיק אפליקציה זו באופן בטוח. אם תפסיק אותה, אתה עלול לאבד חלק מהעבודה הנוכחית שלך.</string>
-    <string name="background_process_stop_description">זהו תהליך אפליקציה ישן שעדיין פועל למקרה שיהיה נחוץ שוב. בדרך כלל אין סיבה להפסיק אותו.</string>
+    <string name="service_stop_description">שירות זה הופעל על ידי היישום שלו. הפסקת הפעילות עלולה לגרום לכשל ביישום.</string>
+    <string name="heavy_weight_stop_description">לא ניתן להפסיק יישום זו באופן בטוח. אם תפסיק אותה, אתה עלול לאבד חלק מהעבודה הנוכחית שלך.</string>
+    <string name="background_process_stop_description">זהו תהליך יישום ישן שעדיין פועל למקרה שיהיה נחוץ שוב. בדרך כלל אין סיבה להפסיק אותו.</string>
     <string name="service_manage_description">"%1$s: בשימוש כרגע. גע ב'אפשרויות' כדי לשלוט בו."</string>
     <string name="main_running_process_description">תהליך ראשי נמצא בשימוש.</string>
     <string name="process_service_in_use_description">השירות %1$s נמצא בשימוש.</string>
@@ -1146,8 +1146,8 @@
     <string name="hardkeyboard_category">הגדרות מקלדת פיזית</string>
     <string name="auto_punctuate_summary">"לחץ על מקש הרווח פעמיים כדי להוסיף '.'"</string>
     <string name="show_password">הפוך את הסיסמאות לגלויות</string>
-    <string name="ime_security_warning">ייתכן ששיטת קלט זו תוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. היא מגיעה מהאפליקציה %1$s. האם להשתמש בשיטת קלט זו?</string>
-    <string name="spellchecker_security_warning">ייתכן שבודק איות זה יוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. הוא מגיע מהאפליקציה %1$s. להשתמש בבודק איות זה?</string>
+    <string name="ime_security_warning">ייתכן ששיטת קלט זו תוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. היא מגיעה מהיישום %1$s. האם להשתמש בשיטת קלט זו?</string>
+    <string name="spellchecker_security_warning">ייתכן שבודק איות זה יוכל לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. הוא מגיע מהיישום %1$s. להשתמש בבודק איות זה?</string>
     <string name="spellchecker_quick_settings">הגדרות</string>
     <string name="spellchecker_language">שפה</string>
     <string name="failed_to_open_app_settings_toast">פתיחת הגדרות עבור %1$s נכשלה</string>
@@ -1184,8 +1184,8 @@
     <string name="testing_phone_info">מידע על הטלפון</string>
     <string name="testing_battery_info">מידע על סוללה</string>
     <string name="quick_launch_title">הפעלה מהירה</string>
-    <string name="quick_launch_summary">הגדרת מקשי קיצור להפעלת אפליקציות</string>
-    <string name="quick_launch_assign_application">הקצאה לאפליקציה</string>
+    <string name="quick_launch_summary">הגדרת מקשי קיצור להפעלת יישומים</string>
+    <string name="quick_launch_assign_application">הקצאה ליישום</string>
     <string name="quick_launch_no_shortcut">אין קיצור דרך</string>
     <string name="quick_launch_shortcut">חיפוש + %1$s</string>
     <string name="quick_launch_clear_dialog_title">נקה</string>
@@ -1212,7 +1212,7 @@
     <string name="builtin_keyboard_settings_title">מקלדת פיזית</string>
     <string name="builtin_keyboard_settings_summary">הגדרות מקלדת פיזית</string>
     <string name="development_settings_title">אפשרויות מפתח</string>
-    <string name="development_settings_summary">הגדרת אפשרויות לפיתוח אפליקציות</string>
+    <string name="development_settings_summary">הגדרת אפשרויות לפיתוח יישומים</string>
     <string name="development_settings_not_available">אפשרויות מפתח אינן זמינות עבור משתמש זה</string>
     <string name="enable_adb">‏ניקוי באגים ב-USB</string>
     <string name="enable_adb_summary">‏מצב תיקון באגים כאשר USB מחובר</string>
@@ -1231,18 +1231,18 @@
     <string name="allow_mock_location">אפשר מיקומים מדומים</string>
     <string name="allow_mock_location_summary">אפשר מיקומים מדומים</string>
     <string name="adb_warning_title">‏לאפשר ניקוי באגים של USB?</string>
-    <string name="adb_warning_message">‏ניקוי באגים באמצעות USB מיועד למטרות פיתוח בלבד. השתמש בו להעתקת נתונים בין המחשב והמכשיר שלך, להתקנת אפליקציות במכשיר ללא התראה ולקריאת נתוני יומן.</string>
+    <string name="adb_warning_message">‏ניקוי באגים באמצעות USB מיועד למטרות פיתוח בלבד. השתמש בו להעתקת נתונים בין המחשב והמכשיר שלך, להתקנת יישומים במכשיר ללא התראה ולקריאת נתוני יומן.</string>
     <string name="adb_keys_warning_message">‏האם לבטל את הגישה לניקוי באגים ב-USB מכל המחשבים שהענקת להם בעבר הרשאה?</string>
     <string name="dev_settings_warning_title">האם להתיר הגדרות פיתוח?</string>
-    <string name="dev_settings_warning_message">הגדרות אלה מיועדות לשימוש בפיתוח בלבד. הן עלולות לגרום למכשיר או לאפליקציות המותקנות בו לקרוס או לפעול באופן לא תקין.</string>
-    <string name="verify_apps_over_usb_title">‏אמת אפליקציות באמצעות USB</string>
-    <string name="verify_apps_over_usb_summary">‏בדוק אפליקציות שהותקנו באמצעות ADB/ADT לאיתור התנהגות מזיקה.</string>
+    <string name="dev_settings_warning_message">הגדרות אלה מיועדות לשימוש בפיתוח בלבד. הן עלולות לגרום למכשיר או ליישומים המותקנות בו לקרוס או לפעול באופן לא תקין.</string>
+    <string name="verify_apps_over_usb_title">‏אמת יישומים באמצעות USB</string>
+    <string name="verify_apps_over_usb_summary">‏בדוק יישומים שהותקנו באמצעות ADB/ADT לאיתור התנהגות מזיקה.</string>
     <string name="enforce_read_external_title">‏הגנה על כרטיס SD</string>
-    <string name="enforce_read_external_summary">‏על אפליקציות לבקש רשות כדי לקרוא כרטיס SD</string>
+    <string name="enforce_read_external_summary">‏על יישומים לבקש רשות כדי לקרוא כרטיס SD</string>
     <string name="enforce_read_external_confirm_title">‏האם להגן על כרטיס ה-SD?</string>
-    <string name="enforce_read_external_confirm_message">"‏כאשר כרטיס ה-SD מוגן, על אפליקציות לבקש רשות כדי לקרוא נתונים מאחסון חיצוני.
+    <string name="enforce_read_external_confirm_message">"‏כאשר כרטיס ה-SD מוגן, על יישומים לבקש רשות כדי לקרוא נתונים מאחסון חיצוני.
 
-ייתכן שאפליקציות מסוימים לא יפעלו עד שיעודכנו על ידי המפתחים שלהם."</string>
+ייתכן שיישומים מסוימים לא יפעלו עד שיעודכנו על ידי המפתחים שלהם."</string>
     <string name="enable_terminal_title">מסוף מקומי</string>
     <string name="enable_terminal_summary">הפעל אפליקציית מסוף המציעה גישה מקומית למעטפת</string>
     <string name="gadget_picker_title">"בחר גאדג'ט"</string>
@@ -1260,7 +1260,7 @@
     <string name="usage_stats_label">סטטיסטיקת שימוש</string>
     <string name="testing_usage_stats">סטטיסטיקת שימוש</string>
     <string name="display_order_text">מיין לפי:</string>
-    <string name="app_name_label">אפליקציה</string>
+    <string name="app_name_label">יישום</string>
     <string name="launch_count_label">ספירה</string>
     <string name="usage_time_label">זמן שימוש</string>
     <string name="accessibility_settings">נגישות</string>
@@ -1291,7 +1291,7 @@
     <string name="accessibility_toggle_large_text_preference_title">טקסט גדול</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">הגדלת מסך</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">עדכון אוטומטי של הגדלת מסך</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">עדכון הגדלת מסך במעבר בין אפליקציות</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">עדכון הגדלת מסך במעבר בין יישומים</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">לחצן ההפעלה מסיים שיחה</string>
     <string name="accessibility_toggle_speak_password_preference_title">אמירת סיסמאות</string>
     <string name="accessibility_long_press_timeout_preference_title">עיכוב של נגיעה והחזקה</string>
@@ -1326,7 +1326,7 @@
     <string name="enable_service_title">האם להשתמש ב%1$s?</string>
     <string name="capabilities_list_title">%1$s צריך:</string>
     <string name="capability_title_receiveAccessibilityEvents">הצג את הפעולות שלך</string>
-    <string name="capability_desc_receiveAccessibilityEvents">קבל התראות כשאתה מבצע אינטראקציה עם אפליקציה.</string>
+    <string name="capability_desc_receiveAccessibilityEvents">קבל התראות כשאתה מבצע אינטראקציה עם יישום.</string>
     <string name="disable_service_title">האם לעצור את %1$s?</string>
     <string name="disable_service_message">"נגיעה ב'אישור' תפסיק את %1$s."</string>
     <string name="accessibility_no_services_installed">אין שירותים מותקנים</string>
@@ -1405,8 +1405,8 @@
     <string name="usage_type_on_time">משך פעולה עד כה</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="battery_action_stop">אלץ עצירה</string>
-    <string name="battery_action_app_details">פרטי אפליקציה</string>
-    <string name="battery_action_app_settings">הגדרות אפליקציה</string>
+    <string name="battery_action_app_details">פרטי יישום</string>
+    <string name="battery_action_app_settings">הגדרות יישום</string>
     <string name="battery_action_display">הגדרות מסך</string>
     <string name="battery_action_wifi">‏הגדרות Wi-Fi</string>
     <string name="battery_action_bluetooth">‏הגדרות Bluetooth</string>
@@ -1421,10 +1421,10 @@
     <string name="battery_desc_bluetooth">‏צריכת הסוללה על ידי Bluetooth</string>
     <string name="battery_sugg_bluetooth_basic">‏כבה את Bluetooth כשאינך משתמש בו</string>
     <string name="battery_sugg_bluetooth_headset">‏נסה להתחבר למכשיר Bluetooth אחר</string>
-    <string name="battery_desc_apps">צריכת הסוללה על ידי אפליקציות</string>
-    <string name="battery_sugg_apps_info">הפסק את האפליקציה או הסר אותה</string>
+    <string name="battery_desc_apps">צריכת הסוללה על ידי יישומים</string>
+    <string name="battery_sugg_apps_info">הפסק את היישום או הסר אותה</string>
     <string name="battery_sugg_apps_gps">בחר במצב חיסכון בסוללה</string>
-    <string name="battery_sugg_apps_settings">ייתכן שהאפליקציה מציעה הגדרות לצמצום צריכת הסוללה</string>
+    <string name="battery_sugg_apps_settings">ייתכן שהיישום מציעה הגדרות לצמצום צריכת הסוללה</string>
     <string name="battery_desc_users">סוללה בשימוש על ידי משתמש</string>
     <string name="menu_stats_unplugged">%1$s מאז הניתוק</string>
     <string name="menu_stats_last_unplugged">מאז הניתוק האחרון למשך %1$s</string>
@@ -1435,7 +1435,7 @@
     <string name="process_stats_summary_title">סטטיסטיקה של תהליך</string>
     <string name="process_stats_summary">סטטיסטיקה של מומחי מחשבים על התהליכים הפועלים</string>
     <string name="app_memory_use">זיכרון בשימוש</string>
-    <string name="process_stats_total_duration">%1$s אפליקציות במשך %2$s</string>
+    <string name="process_stats_total_duration">%1$s יישומים במשך %2$s</string>
     <string name="process_stats_type_background">רקע</string>
     <string name="process_stats_type_foreground">חזית</string>
     <string name="process_stats_type_cached">בקובץ שמור</string>
@@ -1466,7 +1466,7 @@
     <string name="tts_settings">הגדרות טקסט לדיבור</string>
     <string name="tts_settings_title">פלט טקסט לדיבור</string>
     <string name="use_default_tts_settings_title">השתמש תמיד בהגדרות שלי</string>
-    <string name="use_default_tts_settings_summary">הגדרות ברירת המחדל שלמטה עוקפות את הגדרות האפליקציות</string>
+    <string name="use_default_tts_settings_summary">הגדרות ברירת המחדל שלמטה עוקפות את הגדרות היישומים</string>
     <string name="tts_default_settings_section">הגדרות ברירת מחדל</string>
     <string name="tts_default_synth_title">מנוע ברירת המחדל</string>
     <string name="tts_default_synth_summary">מגדיר את מנוע סינתזת הדיבור לשימוש עבור טקסט מדובר</string>
@@ -1559,11 +1559,11 @@
     <string name="backup_section_title">גיבוי ושחזור</string>
     <string name="personal_data_section_title">נתונים אישיים</string>
     <string name="backup_data_title">גבה את הנתונים שלי</string>
-    <string name="backup_data_summary">‏גבה נתוני אפליקציות, סיסמאות Wi-Fi והגדרות אחרות בשרתי Google</string>
+    <string name="backup_data_summary">‏גבה נתוני יישומים, סיסמאות Wi-Fi והגדרות אחרות בשרתי Google</string>
     <string name="backup_configure_account_title">חשבון גיבוי</string>
     <string name="backup_configure_account_default_summary">אף חשבון אינו מאחסן כרגע נתונים מגובים</string>
     <string name="auto_restore_title">שחזור אוטומטי</string>
-    <string name="auto_restore_summary">לאחר התקנה מחדש של אפליקציה, שחזר את ההגדרות והנתונים המגובים</string>
+    <string name="auto_restore_summary">לאחר התקנה מחדש של יישום, שחזר את ההגדרות והנתונים המגובים</string>
     <string name="local_backup_password_title">סיסמת גיבוי מקומי</string>
     <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
     <string name="local_backup_password_summary_change">גע כדי לשנות או להסיר את הסיסמה עבור גיבויים מלאים בשולחן העבודה</string>
@@ -1571,7 +1571,7 @@
     <string name="local_backup_password_toast_confirmation_mismatch">הסיסמה החדשה והאישור אינם תואמים</string>
     <string name="local_backup_password_toast_validation_failure">הגדרת סיסמת גיבוי נכשלה</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">‏האם להפסיק לגבות את סיסמאות ה-Wi-Fi, הסימניות, הגדרות אחרות ונתוני האפליקציות שלך ולמחוק את כל העותקים משרתי Google?</string>
+    <string name="backup_erase_dialog_message">‏האם להפסיק לגבות את סיסמאות ה-Wi-Fi, הסימניות, הגדרות אחרות ונתוני היישומים שלך ולמחוק את כל העותקים משרתי Google?</string>
     <string name="device_admin_settings_title">הגדרות ניהול מכשיר</string>
     <string name="active_device_admin_msg">מנהל מכשיר</string>
     <string name="remove_device_admin">בטל הפעלה</string>
@@ -1580,8 +1580,8 @@
     <string name="add_device_admin_msg">להפעיל את מנהל המכשיר?</string>
     <string name="add_device_admin">הפעל</string>
     <string name="device_admin_add_title">מנהל מכשיר</string>
-    <string name="device_admin_warning">הפעלת מנהל מערכת זה תאפשר לאפליקציה %1$s לבצע את הפעולות הבאות:</string>
-    <string name="device_admin_status">מנהל מערכת זה פעיל ומאפשר לאפליקציה %1$s לבצע את הפעולות הבאות:</string>
+    <string name="device_admin_warning">הפעלת מנהל מערכת זה תאפשר ליישום %1$s לבצע את הפעולות הבאות:</string>
+    <string name="device_admin_status">מנהל מערכת זה פעיל ומאפשר ליישום %1$s לבצע את הפעולות הבאות:</string>
     <string name="untitled_apn">ללא כותרת</string>
     <string name="sound_category_sound_title">כללי</string>
     <string name="sound_category_notification_title">התראות</string>
@@ -1626,9 +1626,9 @@
     <string name="sync_is_failing">הסינכרון נתקל כעת בבעיות. הוא ימשיך תוך זמן קצר.</string>
     <string name="add_account_label">הוסף חשבון</string>
     <string name="background_data">נתוני רקע</string>
-    <string name="background_data_summary">אפליקציות יכולות לסנכרן, לשלוח ולקבל נתונים בכל עת</string>
+    <string name="background_data_summary">יישומים יכולות לסנכרן, לשלוח ולקבל נתונים בכל עת</string>
     <string name="background_data_dialog_title">להשבית נתוני רקע?</string>
-    <string name="background_data_dialog_message">השבתה של נתוני הרקע מאריכה את חיי הסוללה ומצמצמת את השימוש בנתונים. ייתכן שאפליקציות מסוימות עדיין ישתמשו בחיבור נתוני הרקע.</string>
+    <string name="background_data_dialog_message">השבתה של נתוני הרקע מאריכה את חיי הסוללה ומצמצמת את השימוש בנתונים. ייתכן שיישומים מסוימות עדיין ישתמשו בחיבור נתוני הרקע.</string>
     <string name="sync_automatically">סנכרון נתונים אוטומטי</string>
     <string name="sync_enabled">סינכרון מופעל</string>
     <string name="sync_disabled">סינכרון כבוי</string>
@@ -1646,7 +1646,7 @@
     <string name="sync_contacts">אנשי קשר</string>
     <string name="sync_plug">‏<font fgcolor="#ffffffff">ברוכים הבאים אל סינכרון Google‏!</font>" 
 זוהי גישה של Google לסינכרון נתונים במטרה לאפשר לך גישה לאנשי קשר, לפגישות ועוד מכל מקום שבו אתה נמצא."</string>
-    <string name="header_application_sync_settings">הגדרות סנכרון אפליקציות</string>
+    <string name="header_application_sync_settings">הגדרות סנכרון יישומים</string>
     <string name="header_data_and_synchronization">נתונים וסינכרון</string>
     <string name="preference_change_password_title">שנה סיסמה</string>
     <string name="header_account_settings">הגדרות חשבון</string>
@@ -1655,7 +1655,7 @@
     <string name="finish_button_label">סיום</string>
     <string name="really_remove_account_title">להסיר את החשבון?</string>
     <string name="really_remove_account_message">הסרת חשבון זה תגרום למחיקה של כל ההודעות, אנשי הקשר ונתונים נוספים של החשבון מהטלפון!</string>
-    <string name="remove_account_failed">"אפליקציות מסוימות מחייבות שימוש בחשבון זה. ניתן להסירו רק על ידי איפוס הטלפון לערכי ברירת המחדל של היצרן (פעולה זו מוחקת את כל הנתונים האישיים) בנתיב 'הגדרות' > 'גיבוי ואיפוס'."</string>
+    <string name="remove_account_failed">"יישומים מסוימות מחייבות שימוש בחשבון זה. ניתן להסירו רק על ידי איפוס הטלפון לערכי ברירת המחדל של היצרן (פעולה זו מוחקת את כל הנתונים האישיים) בנתיב 'הגדרות' > 'גיבוי ואיפוס'."</string>
     <string name="provider_label">‏מנויי Push</string>
     <string name="cant_sync_dialog_title">לא ניתן לסנכרן באופן ידני</string>
     <string name="cant_sync_dialog_message">אפשרות הסנכרון עבור פריט זה מושבתת כרגע. כדי לשנות את ההגדרה, הפעל באופן זמני את נתוני הרקע והסנכרון האוטומטי.</string>
@@ -1671,19 +1671,19 @@
     <string name="hdcp_checking_title">‏בדיקת HDCP</string>
     <string name="hdcp_checking_dialog_title">‏הגדר אופן בדיקת HDCP</string>
     <string name="debug_debugging_category">ניקוי באגים</string>
-    <string name="debug_app">בחר אפליקציה לניקוי באגים</string>
-    <string name="debug_app_not_set">לא הוגדרה אפליקציה לניקוי באגים</string>
-    <string name="debug_app_set">אפליקציה לניקוי באגים: %1$s</string>
-    <string name="select_application">בחר אפליקציה</string>
+    <string name="debug_app">בחר יישום לניקוי באגים</string>
+    <string name="debug_app_not_set">לא הוגדרה יישום לניקוי באגים</string>
+    <string name="debug_app_set">יישום לניקוי באגים: %1$s</string>
+    <string name="select_application">בחר יישום</string>
     <string name="no_application">כלום</string>
     <string name="wait_for_debugger">המתן למנקה באגים</string>
-    <string name="wait_for_debugger_summary">אפליקציה שנוקו בה הבאגים ממתינה למנקה הבאגים לצירוף לפני ביצוע</string>
+    <string name="wait_for_debugger_summary">יישום שנוקו בה הבאגים ממתינה למנקה הבאגים לצירוף לפני ביצוע</string>
     <string name="debug_input_category">קלט</string>
     <string name="debug_drawing_category">שרטוט</string>
     <string name="debug_hw_drawing_category">עיבוד מואץ של חומרה</string>
     <string name="debug_monitoring_category">מעקב</string>
     <string name="strict_mode">מצב קפדני מופעל</string>
-    <string name="strict_mode_summary">גרום למסך להבהב כאשר אפליקציות מבצעות פעולות ארוכות בשרשור הראשי</string>
+    <string name="strict_mode_summary">גרום למסך להבהב כאשר יישומים מבצעות פעולות ארוכות בשרשור הראשי</string>
     <string name="pointer_location">מיקום מצביע</string>
     <string name="pointer_location_summary">שכבת על של המסך המציגה את נתוני המגע הנוכחיים</string>
     <string name="show_touches">הצג נגיעות</string>
@@ -1719,7 +1719,7 @@
     <string name="immediately_destroy_activities_summary">השמד כל פעילות ברגע שהמשתמש עוזב אותה</string>
     <string name="app_process_limit_title">מגבלה של תהליך ברקע</string>
     <string name="show_all_anrs">‏הצג את כל פריטי ה-ANR</string>
-    <string name="show_all_anrs_summary">"הצג תיבת דו-שיח של 'אפליקציה לא מגיבה' עבור אפליקציות שפועלות ברקע"</string>
+    <string name="show_all_anrs_summary">"הצג תיבת דו-שיח של 'יישום לא מגיבה' עבור יישומים שפועלות ברקע"</string>
     <string name="data_usage_summary_title">שימוש בנתונים</string>
     <string name="data_usage_cycle">מחזור שימוש בנתונים</string>
     <string name="data_usage_menu_roaming">נדידת נתונים</string>
@@ -1731,7 +1731,7 @@
     <string name="data_usage_menu_auto_sync">סנכרון אוטומטי של נתונים</string>
     <string name="data_usage_change_cycle">שנה את הגדרת המחזור…</string>
     <string name="data_usage_pick_cycle_day">היום בחודש שבו יש לאפס את מחזור השימוש בנתונים:</string>
-    <string name="data_usage_empty">אף אפליקציה לא השתמשה בנתונים במהלך פרק זמן זה.</string>
+    <string name="data_usage_empty">אף יישום לא השתמשה בנתונים במהלך פרק זמן זה.</string>
     <string name="data_usage_label_foreground">חזית</string>
     <string name="data_usage_label_background">רקע</string>
     <string name="data_usage_app_restricted">מוגבל</string>
@@ -1750,14 +1750,14 @@
     <string name="data_usage_enable_mobile">נתונים לנייד</string>
     <string name="data_usage_enable_3g">‏נתוני 2G-3G</string>
     <string name="data_usage_enable_4g">‏נתוני 4G</string>
-    <string name="data_usage_app_settings">הצג את הגדרות האפליקציה</string>
+    <string name="data_usage_app_settings">הצג את הגדרות היישום</string>
     <string name="data_usage_app_restrict_background">הגבל נתוני רקע</string>
     <string name="data_usage_app_restrict_background_summary">השבת נתוני רקע ברשתות לנייד. ייעשה שימוש ברשתות שאינן לנייד, אם יהיו זמינות.</string>
-    <string name="data_usage_app_restrict_background_summary_disabled">כדי להגביל נתוני רקע לאפליקציה, הגדר תחילה מגבלת נתונים לנייד.</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">כדי להגביל נתוני רקע ליישום, הגדר תחילה מגבלת נתונים לנייד.</string>
     <string name="data_usage_app_restrict_dialog_title">להגביל נתוני רקע?</string>
-    <string name="data_usage_app_restrict_dialog">"תכונה זו עלולה לגרום לאפליקציה התלויה בנתוני רקע להפסיק לפעול כאשר רק רשתות לנייד זמינות.
+    <string name="data_usage_app_restrict_dialog">"תכונה זו עלולה לגרום ליישום התלויה בנתוני רקע להפסיק לפעול כאשר רק רשתות לנייד זמינות.
 
-ניתן למצוא אמצעים מתאימים יותר לבקרת השימוש בנתונים דרך ההגדרות הזמינות באפליקציה."</string>
+ניתן למצוא אמצעים מתאימים יותר לבקרת השימוש בנתונים דרך ההגדרות הזמינות ביישום."</string>
     <string name="data_usage_restrict_denied_dialog">הגבלת נתוני הרקע אפשרית רק אם הגדרת מגבלת נתונים לנייד.</string>
     <string name="data_usage_auto_sync_on_dialog_title">האם להפעיל סנכרון אוטומטי של נתונים?</string>
     <string name="data_usage_auto_sync_on_dialog">"‏שינויים כלשהם שתבצע בחשבונך באינטרנט יועתקו אוטומטית אל הטלפון.
@@ -1777,21 +1777,21 @@
 
 מכיוון שנפח העברת הנתונים נמדד על ידי הטלפון, ומכיוון שייתכן שספק השירות שלך מחשב את נפח העברת הנתונים אחרת, מומלץ להשתמש במגבלה שמרנית."</string>
     <string name="data_usage_restrict_background_title">להגביל נתוני רקע?</string>
-    <string name="data_usage_restrict_background">‏אם תגביל נתונים לנייד ברקע, אפליקציות ושירותים מסוימים לא יפעלו, אלא אם קיים חיבור Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"‏אם תגביל נתונים לנייד ברקע, אפליקציות ושירותים מסוימים לא יפעלו, אלא אם אתה מחובר לרשת Wi-Fi‏.
+    <string name="data_usage_restrict_background">‏אם תגביל נתונים לנייד ברקע, יישומים ושירותים מסוימים לא יפעלו, אלא אם קיים חיבור Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"‏אם תגביל נתונים לנייד ברקע, יישומים ושירותים מסוימים לא יפעלו, אלא אם אתה מחובר לרשת Wi-Fi‏.
 
 הגדרה זו משפיעה על כל המשתמשים בטלפון הזה."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">אזהרה</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
 "<font size="12">מגבלה</font></string>
-    <string name="data_usage_uninstalled_apps">אפליקציות שהוסרו</string>
-    <string name="data_usage_uninstalled_apps_users">אפליקציות ומשתמשים שהוסרו</string>
+    <string name="data_usage_uninstalled_apps">יישומים שהוסרו</string>
+    <string name="data_usage_uninstalled_apps_users">יישומים ומשתמשים שהוסרו</string>
     <string name="data_usage_received_sent">%1$s התקבלו, %2$s נשלחו</string>
     <string name="data_usage_total_during_range">%2$s: נעשה שימוש בערך ב-%1$s.</string>
     <string name="data_usage_total_during_range_mobile">%2$s : נעשה שימוש בערך ב-%1$s, כפי שנמדד על ידי הטלפון. ייתכן שספק השירות שלך יחשב את נפח העברת הנתונים בצורה אחרת.</string>
     <string name="data_usage_metered_title">נקודות חמות לנייד</string>
-    <string name="data_usage_metered_body">‏בחר את רשתות ה-Wi-Fi שהן נקודות חמות לנייד. ניתן להגביל את השימוש שאפליקציות עושות ברשתות אלה כאשר הן פועלות ברקע. אפליקציות יכולות גם להציג אזהרה לפני שימוש ברשתות אלה לביצוע הורדות גדולות.</string>
+    <string name="data_usage_metered_body">‏בחר את רשתות ה-Wi-Fi שהן נקודות חמות לנייד. ניתן להגביל את השימוש שיישומים עושות ברשתות אלה כאשר הן פועלות ברקע. יישומים יכולות גם להציג אזהרה לפני שימוש ברשתות אלה לביצוע הורדות גדולות.</string>
     <string name="data_usage_metered_mobile">רשתות לנייד</string>
     <string name="data_usage_metered_wifi">‏רשתות Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">‏כדי לבחור נקודות חמות לנייד, הפעל את ה-Wi-Fi.</string>
@@ -1857,10 +1857,10 @@
     <string name="ssl_ca_cert_info_message">"המכשיר הזה מנוהל על ידי:
 %s
 
-מנהל המערכת יכול לנטר את הפעילות שלך ברשת, כולל דוא\"ל, אפליקציות ואתרים מאובטחים.
+מנהל המערכת יכול לנטר את הפעילות שלך ברשת, כולל דוא\"ל, יישומים ואתרים מאובטחים.
 
 למידע נוסף, פנה אל מנהל המערכת."</string>
-    <string name="ssl_ca_cert_warning_message">"צד שלישי מסוגל לעקוב אחר הפעילות שלך ברשת, כולל הודעות דוא\"ל, אפליקציות ואתרים מאובטחים.
+    <string name="ssl_ca_cert_warning_message">"צד שלישי מסוגל לעקוב אחר הפעילות שלך ברשת, כולל הודעות דוא\"ל, יישומים ואתרים מאובטחים.
 
 אישור מהימן המותקן במכשיר מאפשר זאת."</string>
     <string name="ssl_ca_cert_settings_button">בדוק פרטי כניסה מהימנים</string>
@@ -1868,7 +1868,7 @@
     <string name="user_list_title">משתמשים ופרופילים</string>
     <string name="user_add_user_menu">הוסף משתמש או פרופיל</string>
     <string name="user_summary_restricted_profile">פרופיל מוגבל</string>
-    <string name="user_need_lock_message">לפני שתוכל ליצור פרופיל מוגבל, תצטרך להגדיר נעילת מסך כדי להגן על האפליקציות ועל הנתונים האישיים שלך.</string>
+    <string name="user_need_lock_message">לפני שתוכל ליצור פרופיל מוגבל, תצטרך להגדיר נעילת מסך כדי להגן על היישומים ועל הנתונים האישיים שלך.</string>
     <string name="user_set_lock_button">הגדר נעילה</string>
     <string name="user_summary_not_set_up">לא מוגדר</string>
     <string name="user_summary_restricted_not_set_up">לא מוגדר - פרופיל מוגבל</string>
@@ -1876,19 +1876,19 @@
     <string name="user_you">אתה (%s)</string>
     <string name="user_nickname">כינוי</string>
     <string name="user_add_user_type_title">הוספה</string>
-    <string name="user_add_user_item_summary">למשתמשים יש אפליקציות ותוכן משלהם</string>
-    <string name="user_add_profile_item_summary">ניתן להגביל את הגישה לאפליקציות ולתוכן מהחשבון שלך</string>
+    <string name="user_add_user_item_summary">למשתמשים יש יישומים ותוכן משלהם</string>
+    <string name="user_add_profile_item_summary">ניתן להגביל את הגישה ליישומים ולתוכן מהחשבון שלך</string>
     <string name="user_add_user_item_title">משתמש</string>
     <string name="user_add_profile_item_title">פרופיל מוגבל</string>
     <string name="user_add_user_title">הוסף משתמש חדש</string>
-    <string name="user_add_user_message_long">"‏ניתן לשתף את המכשיר הזה עם אנשים אחרים על ידי יצירת משתמשים נוספים. לכל משתמש יש שטח משלו שהוא יכול להתאים אישית עם אפליקציות, טפט וכן הלאה. משתמשים יכולים גם להתאים את הגדרות הטאבלט, כגון Wi-Fi, שמשפיעות על כולם.
+    <string name="user_add_user_message_long">"‏ניתן לשתף את המכשיר הזה עם אנשים אחרים על ידי יצירת משתמשים נוספים. לכל משתמש יש שטח משלו שהוא יכול להתאים אישית עם יישומים, טפט וכן הלאה. משתמשים יכולים גם להתאים את הגדרות הטאבלט, כגון Wi-Fi, שמשפיעות על כולם.
 
 לאחר יצירת משתמש חדש, עליו לבצע תהליך הגדרה.
 
-כל משתמש יכול לקבל הרשאות אפליקציה מעודכנות בשם כל המשתמשים האחרים."</string>
+כל משתמש יכול לקבל הרשאות יישום מעודכנות בשם כל המשתמשים האחרים."</string>
     <string name="user_add_user_message_short">"לאחר יצירת משתמש חדש, עליו לבצע תהליך הגדרה.
 
-כל משתמש יכול לקבל הרשאות אפליקציה מעודכנות בשם כל המשתמשים האחרים."</string>
+כל משתמש יכול לקבל הרשאות יישום מעודכנות בשם כל המשתמשים האחרים."</string>
     <string name="user_setup_dialog_title">האם להגדיר משתמש עכשיו?</string>
     <string name="user_setup_dialog_message">ודא שהאדם זמין לקחת את הטאבלט ולהגדיר את השטח שלו</string>
     <string name="user_setup_profile_dialog_message">האם להגדיר פרופיל עכשיו?</string>
@@ -1908,18 +1908,18 @@
     <string name="user_adding_new_user">מוסיף משתמשים חדשים…</string>
     <string name="user_delete_user_description">מחק משתמש</string>
     <string name="user_delete_button">מחק</string>
-    <string name="application_restrictions">אפשר אפליקציות ותוכן</string>
-    <string name="apps_with_restrictions_header">אפליקציות והגבלות</string>
-    <string name="apps_with_restrictions_settings_button">הרחב את ההגדרות עבור האפליקציה</string>
-    <string name="home_app_uninstall_button">הסר את התקנת האפליקציה הזו</string>
-    <string name="only_one_home_message">הגדרות דף הבית יוסתרו עד שתתקין אפליקציה אחרת בדף הבית.</string>
+    <string name="application_restrictions">אפשר יישומים ותוכן</string>
+    <string name="apps_with_restrictions_header">יישומים והגבלות</string>
+    <string name="apps_with_restrictions_settings_button">הרחב את ההגדרות עבור היישום</string>
+    <string name="home_app_uninstall_button">הסר את התקנת היישום הזו</string>
+    <string name="only_one_home_message">הגדרות דף הבית יוסתרו עד שתתקין יישום אחרת בדף הבית.</string>
     <string name="global_change_warning">הגדרה זו משפיעה על כל המשתמשים בטלפון הזה.</string>
     <string name="global_locale_change_title">שנה שפה</string>
     <string name="global_font_change_title">שנה גודל גופן</string>
     <string name="nfc_payment_settings_title">הקש ושלם</string>
     <string name="nfc_payment_no_apps">שלם באמצעות הקשה בלבד</string>
     <string name="nfc_payment_learn_more">למידע נוסף</string>
-    <string name="nfc_payment_menu_item_add_service">חפש אפליקציות</string>
+    <string name="nfc_payment_menu_item_add_service">חפש יישומים</string>
     <string name="nfc_payment_set_default_label">האם להגדיר בתור ההעדפה שלך?</string>
     <string name="nfc_payment_set_default">"האם להשתמש תמיד ב-%1$s בפעולת 'הקש ושלם'?"</string>
     <string name="nfc_payment_set_default_instead_of">"האם להשתמש תמיד ב-%1$s במקום ב-%2$s בפעולת 'הקש ושלם'?"</string>
@@ -1931,12 +1931,12 @@
     <string name="user_account_title">חשבון לתוכן</string>
     <string name="user_picture_title">זיהוי תמונה</string>
     <string name="cell_broadcast_settings">שידורים סלולריים</string>
-    <string name="user_restrictions_title">הגבלות על אפליקציות ותוכן</string>
+    <string name="user_restrictions_title">הגבלות על יישומים ותוכן</string>
     <string name="user_rename">שנה שם</string>
-    <string name="app_restrictions_custom_label">הגדר הגבלות אפליקציה</string>
+    <string name="app_restrictions_custom_label">הגדר הגבלות יישום</string>
     <string name="user_restrictions_controlled_by">בשליטת %1$s</string>
-    <string name="app_not_supported_in_limited">אפליקציה זו אינה נתמכת בפרופילים מוגבלים</string>
-    <string name="app_sees_restricted_accounts">האפליקציה הזו יכולה לגשת לחשבונות שלך</string>
+    <string name="app_not_supported_in_limited">יישום זו אינה נתמכת בפרופילים מוגבלים</string>
+    <string name="app_sees_restricted_accounts">היישום הזו יכולה לגשת לחשבונות שלך</string>
     <string name="restriction_wifi_config_title">‏רשת Wi‑Fi ורשת לנייד</string>
     <string name="restriction_wifi_config_summary">‏אפשר שינוי של הגדרות רשת Wi-Fi ורשת לנייד</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -1944,7 +1944,7 @@
     <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_nfc_enable_summary">אפשר חילופי מידע כאשר הטלפון נוגע במכשיר אחר</string>
     <string name="restriction_location_enable_title">מיקום</string>
-    <string name="restriction_location_enable_summary">התר לאפליקציה להשתמש בנתוני המיקום שלך</string>
+    <string name="restriction_location_enable_summary">התר ליישום להשתמש בנתוני המיקום שלך</string>
     <string name="wizard_back">הקודם</string>
     <string name="wizard_next">הבא</string>
     <string name="wizard_finish">סיום</string>
@@ -1955,5 +1955,43 @@
     <string name="pref_title_notification_card2_ringtone">צליל הודעה בסים 2</string>
     <string name="phone_one_ringtone">צלצול בסים 1</string>
     <string name="phone_two_ringtone">צלצול בסים 2</string>
-    <string name="haptic_feedback_enable_title">רטט בעת מגע</string>	
+    <string name="haptic_feedback_enable_summary">רטט בעת מגע</string>
+    <string name="security_and_location_settings_title">אבטחה ומיקום</string>
+    <string name="location_category_title">מיקום</string>
+    <string name="location_preference_title">שירותי מיקום</string>
+    <string name="install_settings">מנהל ההתקנות</string>
+    <string name="feature_settings">פונקציות מיוחדות</string>
+    <string name="lockscreen_title">גלריה במסך הנעילה</string>
+    <string name="bottom_key_definition_title">סגנון כפתורי המגע</string>
+    <string name="bottom_key_definition_summary">החלפת מיקום כפתורי המגע חזור ותפריט</string>
+    <string name="layout_one">אפשרות ראשונה</string>
+    <string name="layout_two">אפשרות שנייה</string>
+    <string name="touch_gesture_title">מחוות מגע</string>
+    <string name="touch_gesture_summary">ביצוע פעולות במהירות באמצע מחוות מגע</string>
+    <string name="smart_sensory_title">חישה חכמה</string>
+    <string name="smart_sensory_summary">שימוש במכשיר באמצעות מחוות כמו ניעור והיפוך</string>
+    <string name="free_snapshot_title">לכידת מסך בסגנון חופשי</string>
+    <string name="free_snapshot_summary">צייר מעגל באופן חופשי כדי ללכוד את מה שבתוכו</string>
+    <string name="three_finger_capture_title">לכידת מסך בשלוש אצבעות</string>
+    <string name="three_finger_capture_summary">החלק שלוש אצבעות כדי לצלם תמונת מסך</string>
+    <string name="three_finger_change_app_title">החלפת יישומון באמצעות שלוש אצבעות</string>
+    <string name="three_finger_change_app_summary">החלק שלוש אצבעות ימינה או שמאלה כדי לעבור בין יישומונים</string>
+    <string name="touch_gesture_launcher_switch_title">הראה התראות</string>
+    <string name="touch_gesture_launcher_switch_summery">החלק את האצבע למטה מכל מקום כדי לפתוח את וילון ההתראות</string>
+    <string name="touch_gesture_launcher_switch_intro">החלק את האצבע למטה מכל מקום כדי לפתוח את וילון ההתראות</string>
+    <string name="sensory_dial_title">חיוג באמצעות זיהוי תנועה</string>
+    <string name="sensory_dial_summary">הצמד את הטלפון לאוזן על מנת לחייג באופן אוטומטי</string>
+    <string name="sensory_answer_title">מענה באמצעות זיהוי תנועה</string>
+    <string name="sensory_answer_summary">הצמד את הטלפון לאוזן על מנת לענות לשיחה באופן אוטומטי</string>
+    <string name="turn_over_slient_or_pause_title">הפוך כדי להשתיק או לעצור</string>
+    <string name="turn_over_slient_or_pause_summary">הפוך את המכשיר על מנת להשתיק את הצלצול או לעצור את השיר שמנוגן</string>
+    <string name="left_right_shake_title">נער כדי להחליף שיר</string>
+    <string name="left_right_shake_summary">נער שמאלה, לחזור לשיר הקודם, או ימינה לדלג לשיר הבא</string>
+    <string name="shake_clear_title">נער כדי לנקות</string>
+    <string name="shake_clear_summary">נקה התראות</string>
+    <string name="shake_update_title">נער כדי לעדכן</string>
+    <string name="shake_update_summary">נער כדי לעדכן כאשר נסרקת רשת אלחוטית או בלוטוס</string>    
+	<string name="smart_gesture_shake_update">נער כדי לעדכן כאשר נסרקת רשת אלחוטית או בלוטוס</string>
+    <string name="more_settings">עוד</string>
+    <string name="power_on_off_sound_title">צליל בהדלקת המכשיר</string>	
 	</resources>
