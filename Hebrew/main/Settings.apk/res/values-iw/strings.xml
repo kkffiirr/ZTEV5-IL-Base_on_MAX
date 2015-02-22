@@ -1951,4 +1951,9 @@
     <string name="user_image_take_photo">צלם תמונה</string>
     <string name="user_image_choose_photo">"בחר תמונה מתוך 'גלריה'"</string>
     <string name="regulatory_info_text" />
-</resources>
+    <string name="pref_title_notification_card1_ringtone">צליל הודעה בסים 1</string>
+    <string name="pref_title_notification_card2_ringtone">צליל הודעה בסים 2</string>
+    <string name="phone_one_ringtone">צלצול בסים 1</string>
+    <string name="phone_two_ringtone">צלצול בסים 2</string>
+    <string name="haptic_feedback_enable_title">רטט בעת מגע</string>	
+	</resources>

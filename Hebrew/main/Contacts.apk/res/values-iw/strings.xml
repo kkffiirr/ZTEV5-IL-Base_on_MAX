@@ -97,7 +97,7 @@
     <string name="listCustomView">אנשי קשר בתצוגה מותאמת אישית</string>
     <string name="foundTooManyContacts">נמצאו יותר מ-%d פריטים.</string>
     <string name="listFoundAllContactsZero">אין אנשי קשר</string>
-    <string name="contactsAllLabel">כל אנשי הקשר</string>
+    <string name="contactsAllLabel">אנשי קשר</string>
     <string name="contactsGroupsLabel">קבוצות</string>
     <string name="contactsFavoritesLabel">מועדפים</string>
     <string name="dialerAllContactsLabel">מועדפים וכל אנשי הקשר</string>
@@ -850,4 +850,33 @@
     <string name="copy_email">העתק כתובת דוא\"ל</string>
     <string name="copy_number">העתק מספר טלפון</string>
     <string name="chips_done">חזור</string>
-</resources>
+	<string name="call_settings_v5">הגדרות שיחה</string>
+	<string name="dialpad_key_keyboard">מקשים</string>
+    <string name="dialpad_key_more">עוד</string>
+	<string name="dialpad_display_tip">הצג רק שיחות שלא נענו</string>
+    <string name="menu_group">קבוצות</string>
+    <string name="menu_quick_search">חיפוש מהיר</string>
+    <string name="menu_more">עוד</string>
+    <string name="menu_scan">סריקה</string>	
+	<string name="menu_display_setting">אנשי קשר להצגה</string>
+    <string name="menu_advance">מתקדם</string>
+    <string name="send_sms">שלח מסרון</string>
+	<string name="menu_delete">מחק איש קשר</string>
+	<string name="ContactSettingsActivity.general_settings">הגדרות כלליות</string>
+    <string name="ContactSettingsActivity.display_settings">הגדרות תצוגה</string>
+    <string name="ContactSettingsActivity.default_storage">אחסון ברירת מחדל</string>
+    <string name="ContactSettingsActivity.merge_contacts">אחד אנשי קשר כפולים</string>
+    <string name="ContactSettingsActivity.account">חשבון</string>
+    <string name="ContactSettingsActivity.import_export_contacts">ייבוא/ייצוא אנשי קשר</string>
+    <string name="ContactSettingsActivity.import_from_phone_card">ייבא מכרטיס ה-SIM</string>
+    <string name="ContactSettingsActivity.import_from_phone_memory">ייבוא אנשי קשר מ vCard</string>
+    <string name="ContactSettingsActivity.export_to_phone_card">ייצא לכרטיס ה-SIM</string>
+    <string name="ContactSettingsActivity.export_to_phone_memory">ייצוא אנשי קשר ל vCard</string>
+    <string name="card_insert_nf_title">כרטיס חדש הוכנס!</string>
+    <string name="card_insert_nf_text">כרטיס חדש הוכנס, לחץ כדי לייבא ממנו אנשי קשר.</string>
+    <string name="card_insert_dialog_text">כרטיס חדש הוכנס, האם לייבא ממנו אנשי קשר?</string>
+    <string name="new_message_create">כתוב</string>
+    <string name="more_options">עוד</string>	
+	<string name="shortcut_call_settings">הגדרות חיוג מהיר</string>
+    <string name="shortcut_call_settings_msg">לחיצה ארוכה על המספר במסך החיוג, תתקשר אל איש הקשר שהותאם לו</string>	
+	</resources>

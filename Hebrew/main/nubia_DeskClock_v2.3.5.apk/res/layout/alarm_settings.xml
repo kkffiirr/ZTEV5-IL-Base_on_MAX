@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingLeft="@dimen/add_alarm_item_padding_left" android:paddingRight="@dimen/add_alarm_item_padding_right" android:layout_width="fill_parent" android:layout_height="@dimen/add_alarm_min_height" android:layoutDirection="ltr">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/poweroff_alarm" android:layout_toLeftOf="@id/parentlayout" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="?android:attr/textAppearanceMedium" />
+        <cn.nubia.deskclock.ui.DontPressWithParentLayout android:id="@id/parentlayout" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <com.nubia.nubiaswitch.NubiaSwitch android:layout_gravity="center_vertical" android:id="@id/poweroff_alarm_switch" android:clickable="true" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </cn.nubia.deskclock.ui.DontPressWithParentLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/screen_padding_left" android:paddingRight="@dimen/screen_padding_right" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/alarm_item_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/alarmInfo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+        <cn.nubia.deskclock.ui.DigitalClock android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/digitalClock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="true" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layoutDirection="ltr">
+            <cn.nubia.deskclock.ui.ZeroTopPaddingTextView android:ellipsize="none" android:id="@id/timeDisplayHours" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/z7_alarm_medium_light" />
+            <cn.nubia.deskclock.ui.ZeroTopPaddingTextView android:ellipsize="none" android:id="@id/timeDisplayMinutes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/z7_alarm_medium_light" />
+            <cn.nubia.deskclock.ui.ZeroTopPaddingTextView android:ellipsize="none" android:gravity="center" android:layout_gravity="bottom" android:id="@id/am_pm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginBottom="3.0dip" android:singleLine="true" style="@style/z7_alarm_label" />
+        </cn.nubia.deskclock.ui.DigitalClock>
+        <cn.nubia.deskclock.ui.DontPressWithParentLayout android:id="@id/dontPressWithParentLayout" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <com.nubia.nubiaswitch.NubiaSwitch android:layout_gravity="center_vertical" android:id="@id/alarmSwitch" android:clickable="true" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <CheckBox android:layout_gravity="center_vertical" android:id="@id/selected" android:focusable="false" android:visibility="gone" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/checkbox_bg" />
+        </cn.nubia.deskclock.ui.DontPressWithParentLayout>
+        <cn.nubia.deskclock.ui.AlarmRepeatLabel android:gravity="center" android:id="@id/alarmRepeate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:layout_toRightOf="@id/digitalClock" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/alarmHint" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_below="@id/alarmInfo">
+        <cn.nubia.deskclock.ui.AlarmLeftTime android:textSize="10.0sp" android:textColor="@color/alarm_gray" android:gravity="center" android:id="@id/leftTime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:singleLine="true" style="@style/z7_alarm_label" />
+        <TextView android:textSize="10.0sp" android:textColor="@color/alarm_gray" android:ellipsize="end" android:gravity="center" android:id="@id/alarmLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/z7_alarm_label" />
+    </LinearLayout>
+</RelativeLayout>

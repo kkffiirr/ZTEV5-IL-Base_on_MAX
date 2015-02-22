@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/clockFrame" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:layout_alignParentTop="true" android:layoutDirection="ltr">
+        <cn.nubia.deskclock.ui.DigitalClock android:orientation="vertical" android:id="@id/digitalClock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false">
+            <cn.nubia.deskclock.ui.ZZeroTopPaddingTextView android:textColor="@color/alarm_red" android:ellipsize="none" android:gravity="center_vertical" android:id="@id/am_pm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:singleLine="true" style="@style/label" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+                <cn.nubia.deskclock.ui.ZZeroTopPaddingTextView android:textColor="@color/alarm_red" android:ellipsize="none" android:id="@id/timeDisplayHours" android:paddingRight="@dimen/time_margin_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:paddingEnd="@dimen/time_margin_right" style="@style/z7_time_big_thin" />
+                <cn.nubia.deskclock.ui.ZZeroTopPaddingTextView android:textColor="@color/alarm_red" android:ellipsize="none" android:id="@id/timeDisplayMinutes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/z7_time_big_thin" />
+            </LinearLayout>
+        </cn.nubia.deskclock.ui.DigitalClock>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip">
+            <TextView android:id="@id/week" style="@style/z7_date_label" />
+            <TextView android:id="@id/lunar" android:layout_marginLeft="10.0dip" style="@style/z7_date_label" />
+            <TextView android:id="@id/solar" android:layout_marginLeft="10.0dip" style="@style/z7_date_label" />
+        </LinearLayout>
+        <ImageView android:background="@drawable/alarm_list_item_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/bottom_btn_bar" android:layout_alignParentBottom="true" style="@style/z7_btn_bar_style">
+        <Button android:id="@id/addNewAlarm" android:text="@string/add_alarm" style="@style/z7_btn_textnochange_style" />
+        <View android:id="@id/btn_separator" android:visibility="gone" android:layout_width="@dimen/btn_margin_middle" android:layout_height="fill_parent" />
+        <Button android:id="@id/delete_current_alarm" android:visibility="gone" android:text="@string/delete_alarm" style="@style/z7_btn_textnochange_style" />
+        <Button android:id="@id/alarmSettings" android:visibility="gone" android:text="@string/alarm_clock_settings" style="@style/z7_btn_textnochange_style" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/bottom_btn_bar" android:layout_below="@id/clockFrame">
+        <ListView android:id="@id/alarms" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/alarm_list_item_divider" />
+        <include android:layout_gravity="center" android:id="@id/empty_alarm_list" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/empty_list_view" />
+    </FrameLayout>
+</RelativeLayout>

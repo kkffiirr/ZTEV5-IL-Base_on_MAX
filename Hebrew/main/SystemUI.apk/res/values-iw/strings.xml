@@ -203,6 +203,8 @@
     <string name="wificast">WifiCast</string>
     <string name="capture">לכידת מסך</string>
     <string name="clear">נקה</string>
-    <string name="sort">סדר</string>
+    <string name="sort">סידור סמלים</string>
 	<string name="settings">הגדרות</string>
+	<string name="lockscreen">מסך נעילה</string>
+    <string name="screenprojector">שתף מסך</string>
 </resources>

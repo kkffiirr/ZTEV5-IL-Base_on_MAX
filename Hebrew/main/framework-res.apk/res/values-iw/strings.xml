@@ -149,6 +149,8 @@
     <string name="shutdown_progress">מכבה...</string>
     <string name="shutdown_confirm">הטלפון שלך יכובה.</string>
     <string name="shutdown_confirm_question">האם ברצונך לבצע כיבוי?</string>
+	<string name="reboot">אתחול</string>
+    <string name="reboot_ext">המכשיר שלך יבצע הפעלה מחדש</string>
     <string name="reboot_safemode_title">אתחל למצב בטוח</string>
     <string name="reboot_safemode_confirm">האם אתה רוצה לאתחל למצב בטוח? פעולה זו תשבית את כל יישומי צד שלישי שהתקנת. הם ישוחזרו לאחר שתאתחל שוב.</string>
     <string name="recent_tasks_title">נוצרו לאחרונה</string>
@@ -1488,4 +1490,5 @@
     <string name="webviewchromium_low_memory_error">לא ניתן להשלים את הפעולה האחרונה עקב מחסור בזיכרון</string>
     <string name="webviewchromium_opening_file_error">פתיחת הקובץ הנבחר נכשלה</string>
     <string name="webviewchromium_private_browsing_warning">‏הפונקציונליות הזו אינה נתמכת בגרסה הזו של Android.</string>
-</resources>
+	<string name="global_action_silent">מצב שקט</string>
+	</resources>

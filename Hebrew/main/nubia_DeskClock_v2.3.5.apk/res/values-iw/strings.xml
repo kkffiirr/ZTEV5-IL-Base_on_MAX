@@ -145,4 +145,15 @@
     <string name="timer_delete_confirmation">האם למחוק את הטיימר הזה?</string>
     <string name="city_delete_confirmation">האם להסיר את העיר הזאת?</string>
     <string name="digital_gadget">שעון דיגיטלי</string>
-</resources>
+    <string name="menu_worldtime">שעון עולמי</string>
+	<string name="action_bar_alarm">התראות</string>
+    <string name="action_bar_worldtime">שעון עולמי</string>
+    <string name="action_bar_stopwatch">שעון עצר</string>
+    <string name="action_bar_timer">טיימר</string>
+	<string name="alarm_clock_settings">הגדרה</string>
+	<string name="poweroff_alarm">הפעל צלצול כשהמכשיר כבוי</string>
+	<string name="add_new_city">הוסף עיר</string>
+    <string name="stopwatch_reset">אפס</string>
+    <string name="stopwatch_record">שמור</string>
+	<string name="pause">עצור</string>
+	</resources>
