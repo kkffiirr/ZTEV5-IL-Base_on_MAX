@@ -93,4 +93,7 @@
     <string name="custom_workspace_cling_description_1" />
     <string name="custom_workspace_cling_title_2" />
     <string name="custom_workspace_cling_description_2" />
+	<string name="menu_edit">מיין סמלים של יישומים</string>
+    <string name="app_loading_title">טוען</string>
+    <string name="app_loading_message">טוען יישומים, אנא המתן...</string>	
 </resources>

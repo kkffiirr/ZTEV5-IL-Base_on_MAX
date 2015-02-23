@@ -596,4 +596,8 @@
     <string name="call_end_tone">צליל בעת סיום שיחה</string>
     <string name="message_prompts">התראת הודעה</string>
     <string name="message_prompts_text">במהלך שיחה, התרע והצג את המסרון</string>	
+	<string name="nubia_missed_call_notification_callback">חיוג</string>
+    <string name="nubia_missed_call_notification_title">%d שיחות שלא נענו</string>
+    <string name="nubia_missed_call_notification_msg">התקבלה מ%1$1s</string>
+    <string name="nubia_missed_call_notification_unknow_msg">התקבלה מ%1$1s</string>
 	</resources>
