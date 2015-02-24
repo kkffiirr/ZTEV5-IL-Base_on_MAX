@@ -190,7 +190,7 @@
     <string name="review_cancel">ביטול</string>
     <string name="review_ok">בוצע</string>
     <string name="review_retake">צלם שוב</string>
-    <string name="camera_gallery_photos_text">גלריה</string>
+    <string name="camera_gallery_photos_text">גלריה נוביה</string>
     <string name="time_lapse_title">הקלטה של מעבר זמן</string>
     <string name="pref_camera_id_title">בחר מצלמה</string>
     <string name="pref_camera_id_entry_back">הקודם</string>
@@ -281,7 +281,7 @@
     <string name="accessibility_switch_to_camera">עבור לצילום תמונות</string>
     <string name="accessibility_switch_to_video">עבור לווידאו</string>
     <string name="accessibility_switch_to_panorama">עבור לפנורמה</string>
-    <string name="app_name">גלריה</string>
+    <string name="app_name">גלריה נוביה</string>
 	<string name="camera_app_name">מצלמת נוביה</string>
     <string name="pref_camera_flashmode_default">כבוי</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13 מגה פיקסלים</string>
