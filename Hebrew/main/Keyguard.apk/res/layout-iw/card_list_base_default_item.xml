@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:paddingLeft="40.0dip" android:paddingRight="40.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/card_list_item_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="12.0dip" android:paddingTop="5.0dip" android:paddingRight="12.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/mms_card_sub_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+                </RelativeLayout>
+                <RelativeLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/card_list_base_item_contact_name_textsize" android:textColor="#ff343131" android:ellipsize="marquee" android:id="@id/contact_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:maxWidth="@dimen/card_list_base_item_contact_name_maxwidth" android:singleLine="true" android:layout_alignParentLeft="true" />
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/card_list_base_item_message_date_textsize" android:textColor="#ff959595" android:id="@id/message_date" android:paddingLeft="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/card_list_base_item_message_date_maxwidth" android:singleLine="true" android:layout_alignParentRight="true" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <View android:layout_gravity="center_vertical" android:background="@color/card_line_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginBottom="2.0dip" />
+        <LinearLayout android:orientation="vertical" android:paddingLeft="15.0dip" android:paddingTop="6.0dip" android:paddingRight="15.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/card_list_base_item_message_body_textsize" android:textColor="#ff706d6d" android:ellipsize="end" android:id="@id/message_body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="3" />
+            <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layoutDirection="rtl">
+                <EditText android:textSize="15.0sp" android:textColor="@android:color/black" android:textColorHint="#ff959595" android:id="@id/reply_text" android:background="@drawable/card_edit_text" android:layout_width="@dimen/card_list_base_item_reply_text_width" android:layout_height="wrap_content" android:hint="@string/type_to_compose_text_enter_to_send" android:maxLines="3" android:autoText="true" android:inputType="textCapSentences|textAutoCorrect|textMultiLine|textShortMessage" android:textCursorDrawable="@null" />
+                <ImageButton android:id="@id/send_button" android:background="@drawable/send_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:contentDescription="@string/send_card_test" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

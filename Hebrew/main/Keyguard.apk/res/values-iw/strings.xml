@@ -145,4 +145,5 @@
     <string name="on_screen_turned_on">onScreenTurnedOn</string>
     <string name="do_keyguard">doKeyguard</string>
     <string name="verify_unlock">verifyUnlock</string>
-</resources>
+    <string name="type_to_compose_text_enter_to_send">הקלד הודעה</string>
+	</resources>

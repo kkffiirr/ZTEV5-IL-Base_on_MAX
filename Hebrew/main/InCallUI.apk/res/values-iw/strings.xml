@@ -566,5 +566,6 @@
     <string name="SoundRecordInCall">השיחה מוקלטת</string>	
 	<string name="dial_speaker">רמקול</string>
 	<string name="nubia_call_record_state_recording">מקליט...</string>
-	
+    <string name="nubia_incoming_call">שיחה נכנסת...</string>	
+    <string name="nubia_respond_via_sms_title">נתק את השיחה וענה במסרון</string>	
 </resources>
