@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/development_settings_title" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.gesturez7.Z7SwitchPreference android:title="@string/sensory_dial_title" android:key="motion_call" android:summary="@string/sensory_dial_summary" android:widgetLayout="@layout/preference_widget_v5switch" android:fragment="com.android.settings.gesturez7.Z7DetailFragment" />
+    <com.android.settings.gesturez7.Z7SwitchPreference android:title="@string/sensory_answer_title" android:key="motion_answer" android:summary="@string/sensory_answer_summary" android:widgetLayout="@layout/preference_widget_v5switch" android:fragment="com.android.settings.gesturez7.Z7DetailFragment" />
+    <com.android.settings.gesturez7.Z7SwitchPreference android:title="@string/turn_over_slient_or_pause_title" android:key="motion_turn" android:summary="@string/turn_over_slient_or_pause_summary" android:widgetLayout="@layout/preference_widget_v5switch" android:fragment="com.android.settings.gesturez7.Z7DetailFragment" />
+    <com.android.settings.gesturez7.Z7SwitchPreference android:title="@string/left_right_shake_title" android:key="motion_music" android:summary="@string/left_right_shake_summary" android:widgetLayout="@layout/preference_widget_v5switch" android:fragment="com.android.settings.gesturez7.Z7DetailFragment" />
+    <com.android.settings.gesturez7.Z7SwitchPreference android:title="@string/shake_clear_title" android:key="motion_clear" android:summary="@string/shake_clear_summary" android:widgetLayout="@layout/preference_widget_v5switch" android:fragment="com.android.settings.gesturez7.Z7DetailFragment" />
+    <com.android.settings.gesturez7.Z7SwitchPreference android:title="@string/shake_update_title" android:key="motion_update" android:summary="@string/shake_update_summary" android:widgetLayout="@layout/preference_widget_v5switch" android:fragment="com.android.settings.gesturez7.Z7DetailFragment" />
+</PreferenceScreen>

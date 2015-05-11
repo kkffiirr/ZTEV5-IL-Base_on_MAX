@@ -879,4 +879,6 @@
     <string name="more_options">עוד</string>	
 	<string name="shortcut_call_settings">הגדרות חיוג מהיר</string>
     <string name="shortcut_call_settings_msg">לחיצה ארוכה על המספר במסך החיוג, תתקשר אל איש הקשר שהותאם לו</string>	
+    <string name="notification_reply">מענה</string>
+    <string name="notification_dial">חייג</string>
 	</resources>

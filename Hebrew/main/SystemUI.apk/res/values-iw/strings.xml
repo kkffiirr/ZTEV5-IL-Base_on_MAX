@@ -201,10 +201,25 @@
     <string name="visitor">מבקר</string>
     <string name="brightness">בהירות</string>
     <string name="wificast">WifiCast</string>
-    <string name="capture">לכידת מסך</string>
+    <string name="capture">צילום מסך</string>
     <string name="clear">נקה</string>
     <string name="sort">סידור סמלים</string>
 	<string name="settings">הגדרות</string>
 	<string name="lockscreen">מסך נעילה</string>
     <string name="screenprojector">שתף מסך</string>
-</resources>
+    <string name="wifi">רשת אלחוטית</string>
+    <string name="bluetooth">בלוטוס</string>
+    <string name="gps">מיקום</string>
+    <string name="status_bar_shortcuts">קיצורי דרך</string>
+    <string name="status_bar_settings">הגדרות שורת המצב</string>
+    <string name="usb_connect_titile">חיבורי USB</string>
+    <string name="usb_connections_activity_title">חיבורי USB</string>
+	<string name="usb_connect_ums_option_title">USB mass storage</string>
+    <string name="usb_connect_ums_option_summary">משמש כהתקן אחסון נייד</string>
+    <string name="usb_connect_mtp_option_title">הצג קבצים</string>
+    <string name="usb_connect_mtp_option_summary">התקן מדיה MTP</string>
+    <string name="usb_connect_ptp_option_title">הצג תמונות</string>
+    <string name="usb_connect_ptp_option_summary">התקן מצלמה PTP</string>
+    <string name="usb_connect_modem_option_title">מודם</string>
+    <string name="usb_options_help">עזרה</string>
+	</resources>

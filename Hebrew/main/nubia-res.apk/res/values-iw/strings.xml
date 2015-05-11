@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nubia_res_app_name">Nubia Common Resources</string>
+    <string name="nubia_res_capital_on">הפעל</string>
+    <string name="nubia_res_capital_off">כבה</string>
+    <string name="nubia_res_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="nubia_res_media_route_button_content_description">פלט מדיה</string>
+    <string name="nubia_res_candidates_style"><u>מועמדים</u></string>
+    <string name="nubia_res_ok">אישור</string>
+    <string name="nubia_res_cancel">ביטול</string>
+    <string name="nubia_res_yes">אישור</string>
+    <string name="nubia_res_no">ביטול</string>
+    <string name="nubia_res_paste">הדבק</string>
+    <string name="nubia_res_number_picker_increment_button">הוסף</string>
+    <string name="nubia_res_number_picker_decrement_button">החסר</string>
+    <string name="nubia_res_number_picker_increment_scroll_mode">%s גע והחזק.</string>
+    <string name="nubia_res_number_picker_increment_scroll_action">החלק מעלה כדי להוסיף ומטה כדי להחסיר.</string>
+    <string name="nubia_res_time_picker_increment_minute_button">הוסף דקה</string>
+    <string name="nubia_res_time_picker_decrement_minute_button">החסר דקה</string>
+    <string name="nubia_res_time_picker_increment_hour_button">הוסף שעה</string>
+    <string name="nubia_res_time_picker_decrement_hour_button">החסר שעה</string>
+    <string name="nubia_res_time_picker_increment_set_pm_button">קבע PM</string>
+    <string name="nubia_res_time_picker_decrement_set_am_button">קבע AM</string>
+    <string name="nubia_res_date_picker_increment_month_button">הוסף חודש</string>
+    <string name="nubia_res_date_picker_decrement_month_button">החסר חודש</string>
+    <string name="nubia_res_date_picker_increment_day_button">הוסף יום</string>
+    <string name="nubia_res_date_picker_decrement_day_button">החסר יום</string>
+    <string name="nubia_res_date_picker_increment_year_button">הוסף שנה</string>
+    <string name="nubia_res_date_picker_decrement_year_button">החסר שנה</string>
+    <string name="nubia_res_time_picker_dialog_title">קבע שעה</string>
+    <string name="nubia_res_date_picker_dialog_title">קבע תאריך</string>
+    <string name="nubia_res_date_time_set">קבע</string>
+    <string name="nubia_res_date_time_done">סיים</string>
+
+</resources>
